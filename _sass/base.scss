@@ -65,12 +65,15 @@ background-size: 80.4px 80.4px;
 
 #MAiN
 {
-  width: 60vh;
-  height: 100vh;
+
   margin:0 auto;
   margin: auto;
   flex-direction: column;
-
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  flex-wrap: wrap;
+  width: 60vw;
+  height: 100vh;
 }
 #MAiN h1 {
   font-size: 30px;
