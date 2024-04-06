@@ -69,7 +69,7 @@ background-size: 80.4px 80.4px;
   height: 100vh;
   margin:0 auto;
   margin: auto;
-  
+  flex-direction: column;
 
 }
 #MAiN h1 {
@@ -1995,9 +1995,7 @@ border: 1px solid #c9ff23;
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
-  max-width: 1000px;
-  margin: 0 auto;
+
 }
 
 
@@ -2025,7 +2023,7 @@ header h2 {
 */
 
 #main_content {
-  width: 100%;
+
   -webkit-font-smoothing: antialiased;
 }
 section img {
@@ -2163,7 +2161,7 @@ a:active, a:focus {
 .pagination, footer {
   height: 50px;
   line-height: 50px;
-  text-align: center;
+  
 }
 
 #wrapper {
