@@ -1991,14 +1991,6 @@ border: 1px solid #c9ff23;
    original: https://github.com/pages-themes/hacker 
 */
 
-@import "rouge-base16-dark";
-@import "default_colors";
-
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
 
 /* General & 'Reset' Stuff */
 
@@ -2178,5 +2170,5 @@ a:active, a:focus {
 }
 
 #wrapper {
-  min-height: calc(100vh - 100px);
+ /* min-height: calc(100vh - 100px); */
 }
