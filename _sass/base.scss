@@ -72,7 +72,7 @@ background-size: 80.4px 80.4px;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   flex-wrap: wrap;
-  width: 60vw;
+  width: 50vw;
   height: 100vh;
 }
 #MAiN h1 {
@@ -106,7 +106,7 @@ background-size: 80.4px 80.4px;
 #heading {
 
   flex-wrap: wrap;
-    width:60vw;
+    width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
    position:fixed;
@@ -116,7 +116,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:60vw;
+  
 }
 
 h1,
@@ -196,7 +196,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:60vw;
+  width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   }
@@ -597,7 +597,6 @@ border: 1px solid #c9ff23;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
   flex-wrap: wrap;
-  width: 60vw;
   height: 20vh;
   opacity: 1;
 
@@ -2167,7 +2166,7 @@ a:active, a:focus {
 .pagination, footer {
   height: 50px;
   line-height: 50px;
-  
+  width:50vw;
 }
 
 #wrapper {
