@@ -6,12 +6,7 @@
 
 </div>
 
-<a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
-  {% assign owner_first_name = site.owner | split: " " %}
-  {{ owner_first_name[0] | downcase }}@home:~$
-  </a>
 
-    {% include links.html %}
 <div id="navcontainer">
   <div class="logo"><a href="https://github.com/ricoThaka" alt="My Name is Thaka aka #Rashard! I am a Unix Adimistrator assigned to the Mars Reconnosince Orbiter at #Nasa's Jet Propulsion Laboratory in Pasadena California i have a daughter named coral and a fiance named normani and an exwife ... erika ">./HoleToAnotherUniverse</a></div>
 <ul id="navlist">
@@ -21,6 +16,12 @@
 <li><a href="https://ricothaka.github.io/marsblog.html" alt="Mars Reconissince Orbiter is my job to help maintain for the us government and our global allies, we r a fun bunch">MarsNotes</a></li>
 <li><a href="https://ricothaka.github.io/cv/" alt="My Resume!">ResumE</a></li>
 <li><a href="https://ricothaka.github.io/Contact.html">SocialS</a></li>
+<a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+  {% assign owner_first_name = site.owner | split: " " %}
+  {{ owner_first_name[0] | downcase }}@home:~$
+  </a>
+
+    {% include links.html %}
   
 </ul>
   
