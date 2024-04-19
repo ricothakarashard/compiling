@@ -421,12 +421,19 @@ background: #262626;
 border-right: 4px solid #2E97F2;
 color: #fff;
 }
+
 .logo {
   
   float: left;
   background-color:black;
   display:inline;
   padding:5px;
+}
+.css3badge {
+  display:inline;
+  float: right;
+  flex-wrap: nowrap;
+
 }
 
 
