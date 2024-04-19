@@ -188,9 +188,10 @@ hr {
 
 #footer {
 
+  flex-wrap: nowrap;
   bottom:0;
   position:fixed;
-    display: grid;
+    display:inline;
 grid-template-rows: auto auto auto;
     background-color: black;
   color:white;
