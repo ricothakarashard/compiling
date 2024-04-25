@@ -2,7 +2,11 @@
 title: Yet Another Sample Page
 published: true
 ---
-
+[Mars Mosaic](https://murray-lab.caltech.edu/CTX/index.html)
+![curiosity_11119.jpg](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_11119.jpg)
+![curiosity_11119.jpg](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_11119.jpg)
+![curiosity_11119.jpg](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_11119.jpg)
+![curiosity_11119.jpg](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_11119.jpg)
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](another-page).
