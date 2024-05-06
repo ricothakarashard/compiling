@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap');
+
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -12,35 +14,35 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
 }
 blockquote, q {
-	quotes: none;
+  quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+  content: '';
+  content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 * {
@@ -50,18 +52,29 @@ table {
   margin: 0 0 50px;
   padding-left: 820px;
 } */
-
-
 body {
 
-  background: linear-gradient(45deg, 
+ /* background: linear-gradient(45deg, 
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
 
+  background-attachment: fixed;
+*/
 }
+html { 
+  
+font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida,
+  sans-serif;
+      /* font-family: "VT323", monospace;*/
+  height: 100%;
+  width: 100%;
+   background: transparent
+    url(https://photojournal.jpl.nasa.gov/jpeg/PIA21641.jpg)
+    center repeat;
+}
+
+
 
 #MAiN
 {
@@ -116,7 +129,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  
+
 }
 
 h1,
@@ -202,17 +215,45 @@ grid-template-rows: auto auto auto;
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   }
 
+time {
+  display:block;
+  width:100%;
+  font-family: "VT323", monospace;
+  font-size:120%;
+  background: linear-gradient(50deg, 
+                              #b5e853 25%, #58a 0, #58a 50%,
+                              #b5e853 0, #b5e853 75%, #58a 0);
+background-size: 80.4px 80.4px;
 
-
+  background-attachment: fixed;
+  font-style: oblique 40deg;
+}
+h2 {
+   background: transparent
+    url(https://photojournal.jpl.nasa.gov/jpeg/PIA21641.jpg)
+    center repeat;
+  
+  
+    }
 p {
   display:block;
-  font-family: "VT323", monospace;
-  font-weight: 300;
+   font-size:120%;
   text-align: center;
   color:white;
     background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
+  bordeR: 1px solid #b5e853;
+  font-family: "Roboto Mono", monospace;
+  padding:10px;
+  display:block;
+  text-shadow:  5px 5px 5px #262626;
+  text-align: left;
+  color:white;
+
+  text-shadow: 0 0 8px #FFFFFF;
+    /* url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat; */
 }
 ::selection {
 color: white;
@@ -233,21 +274,21 @@ p:first-of-type {
 /*
 #content {
 
- 	border-radius:12px;
-	padding: 10px;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-right: 20em;
-	margin-left: 20em; 	
-	/* opera does not like 'margin:20px auto' astrxneeded/
-	border: 0px solid #ccc;
-	text-align:left; 
-	voice-family: "\"}\"";
-	voice-family:inherit;
-	
-	}
+  border-radius:12px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20em;
+  margin-left: 20em; 	
+  /* opera does not like 'margin:20px auto' astrxneeded/
+  border: 0px solid #ccc;
+  text-align:left; 
+  voice-family: "\"}\"";
+  voice-family:inherit;
+
+  }
 */
-  
+
   img {
   display:block;
   width: 100%;
@@ -332,9 +373,9 @@ video {
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
-  
+
 border-radius:0px;
-	transition: 4s cubic-bezier(.25,.1,.2,3);
+  transition: 4s cubic-bezier(.25,.1,.2,3);
 }
 
 video:hover {
@@ -346,7 +387,7 @@ video:hover {
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
-  
+
 
 }
 
@@ -424,7 +465,7 @@ color: #fff;
 }
 
 .logo {
-  
+
   float: left;
   background-color:black;
   display:inline;
@@ -452,7 +493,7 @@ color: #fff;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  
+
 }
 
 .panelColumn {
@@ -470,7 +511,7 @@ color: #fff;
 }
 
 .leftColumn img {
-  
+
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%;
@@ -478,14 +519,14 @@ color: #fff;
     justify-content: center;
     align-items: center;
     overflow: hidden
-  
+
 }
 
 .rightColumn {
   /* background-color: #c9ff23; */
 }
 .rightColumn img { 
- 
+
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%;
@@ -531,7 +572,7 @@ border: 1px solid #c9ff23;
   --gap: 0vmax;
   --transition: 0.5s;
 }
-  
+
 .expandingGallery {
   width: 100%;
   height: 50vh;
@@ -568,7 +609,7 @@ border: 1px solid #c9ff23;
   left: 0;
   right: 0;
   bottom: 0;
-  
+
   /* A bit of padding around image */
   padding: 1em;
 
@@ -2085,7 +2126,7 @@ border: 1px solid #c9ff23;
 /* General & 'Reset' Stuff */
 
 .container {
-  
+
   padding-top: 150px;
   width:100%;
 }
@@ -2268,7 +2309,7 @@ a:active, a:focus {
   flex-wrap: wrap;
   width: 100%;
   height: 80px;
-  
+
 }
 .normani div:nth-child(1) { background: #F2E205;}
 .normani div:nth-child(2) { background: #D9CB04;}
@@ -2281,6 +2322,5 @@ a:active, a:focus {
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
-  
-}
 
+}
