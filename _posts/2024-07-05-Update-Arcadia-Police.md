@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Update Arcadia Police 
 published: true
 ---
 <!--
@@ -9,6 +9,10 @@ published: true
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 This is a comment. Comments are not displayed in the browser-->
+
+# This is Rashard Kelly! My new name is Thaka
+I was living inside ExtendedStay and i started getting poisoned! I was working for [NASAJPL](https://www.jpl.nasa.gov/) and commuting to the facility, i was working with [Mori and Asscociates](https://moriassociates.com/) as a contractor. When i intervied i scored a Unix Admin Level 5 spot! Jamie Mantel said `you are on the mission!` but he said it would take me some time to score a red badge an the contractor badge might run out. I did not get it then, but now i understand that my [Us Draft agreement](https://www.sss.gov/) binds me to working there! And this is the thing. if you were working back then, you would remember me an my little girl Coral at Arcadia Park 
+
 
 # ##RESUME##
 This is Rashard's Resume
