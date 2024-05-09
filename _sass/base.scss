@@ -64,16 +64,87 @@ background-size: 80.4px 80.4px;
 }
 html { 
   
-font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida,
-  sans-serif;
-      /* font-family: "VT323", monospace;*/
-  height: 100%;
-  width: 100%;
-   background: transparent
-    url(https://photojournal.jpl.nasa.gov/jpeg/PIA21641.jpg)
-    center repeat;
-}
-
+  font: normal 10px/18px Arial, Helvetica, sans-serif;
+        /* font-family: "VT323", monospace;*/
+    height: 100%;
+    width: 100%;
+    color:white;
+     background: transparent
+      url(https://photojournal.jpl.nasa.gov/jpeg/PIA21641.jpg)
+      center repeat;
+    background-attachment: fixed;
+  }
+  /* Buttons
+  */
+  h2 a:link{
+      color: white;
+  }
+  h2 a,
+  a:hover,
+  a:visited a:hover {
+    color: #6CC5D9;
+  }
+  
+  a {
+    color: #c9ff23;
+    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  }
+  
+  h2 {
+     background: transparent
+      url(https://photojournal.jpl.nasa.gov/jpeg/PIA21641.jpg)
+      center repeat;
+    background:#58a;
+    padding :40px;
+    
+      }
+  
+  time {
+    
+    display:block;
+    color:#C5D1D9;
+    width:100%;
+    font-family: Tahoma;
+    font-size:130%;
+    padding-left: 10px;
+    background: #048ABF;
+    font-style: oblique 40deg;
+    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  }
+  
+  p {
+    display:block;
+     font-size:120%;
+    text-align: center;
+    color:white;
+      background: transparent
+      url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+      center repeat;
+    bordeR: 1px 1px 1px 1px solid #b5e853;
+    padding:10px;
+    display:block;
+    text-shadow:  5px 5px 5px #262626;
+    text-align: left;
+    color:white;
+  
+    text-shadow: 0 0 8px #FFFFFF;
+      /* url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+      center repeat; */
+  }
+  ::selection {
+  color: white;
+  background: cyan;
+  }
+  p::first-letter {
+    font-size: 2rem;
+    font-weight: bold;
+    vertical-align: sub;
+    color: cyan;
+  }
+  p:first-of-type {
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
 
 
 #MAiN
@@ -228,66 +299,6 @@ background-size: 80.4px 80.4px;
   background-attachment: fixed;
   font-style: oblique 40deg;
 }
-h2 {
-   background: transparent
-    url(https://photojournal.jpl.nasa.gov/jpeg/PIA21641.jpg)
-    center repeat;
-  
-  
-    }
-p {
-  display:block;
-   font-size:120%;
-  text-align: center;
-  color:white;
-    background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-  bordeR: 1px solid #b5e853;
-  font-family: "Roboto Mono", monospace;
-  padding:10px;
-  display:block;
-  text-shadow:  5px 5px 5px #262626;
-  text-align: left;
-  color:white;
-
-  text-shadow: 0 0 8px #FFFFFF;
-    /* url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat; */
-}
-::selection {
-color: white;
-background: cyan;
-}
-p::first-letter {
-  font-size: 2rem;
-  font-weight: bold;
-  vertical-align: sub;
-  color: cyan;
-}
-p:first-of-type {
-  animation-duration: 3s;
-  animation-name: slidein;
-}
-
-
-/*
-#content {
-
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em; 	
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
-
-  }
-*/
 
   img {
   display:block;
