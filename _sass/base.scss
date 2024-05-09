@@ -207,6 +207,11 @@ grid-template-rows: auto auto auto;
 
 }
 
+.container {
+
+  padding-top: 80px;
+  width:100%;
+}
 
 dt {
   font-style: italic;
@@ -2112,11 +2117,6 @@ border: 1px solid #c9ff23;
 
 /* General & 'Reset' Stuff */
 
-.container {
-
-  
-  width:100%;
-}
 
 
 
