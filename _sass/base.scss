@@ -447,20 +447,22 @@ ul ul {
 
 li:hover ul {
   display: block;
-  z-index: 9999; /* set a higher z-index value */
+  
 }
 
 
 
 #navcontainer {
   padding: 0;
-  
+  display:block;
+  clear:both;
   height: 20px;
   display: flex;
   background-color:black;
   position:fixed;
   color:white;
   top: 0;
+  z-index: 9999; /* set a higher z-index value */
 }
 
 #navcontainer ul {
