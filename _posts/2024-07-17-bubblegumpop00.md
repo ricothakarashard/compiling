@@ -1660,16 +1660,6 @@ Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](http
 <p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that.</p>
 
 
-
-<div class="pinupGallery">
-  <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
-  <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
-  <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
-  <img class="pinupImage  featured-pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
-</div>
-<img src="https://i.scdn.co/image/ab67616d0000b27306c81aa4494d8df3dddec586">
-<a href="https://www.youtube.com/watch?v=24Hg58lWfH8">Aster Aweke - Sebebu ##FULL_ALBUM</a>
-<a href="https://www.youtube.com/watch?v=pvy9usF7ohE">##Why Russia is Building an Arctic ##Silk_Road</a>
 <a href="https://www.youtube.com/watch?v=B4joiYkmQr8">##MiSSiNG_CRYPTO_QUEEN</a>
 <a href="https://www.youtube.com/watch?v=AwYQGtwoF68" alt="PLEASE_SHARE_ALL_YOUR_INFO_ABOUT_SARTU_ERIKA_AND_MUNA_CORAL_MEYU_JABDU_and_KIDZ_BOP___CAUSE_DEY_MiYSSiN">PEACHES::AND_ODE_TO_THA_HOLLYWOOD_SOUTHERN_BELL</a>
 <img src="https://www.graffiti.org/la/save.jpg">
@@ -1680,17 +1670,13 @@ Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](http
 <img src="https://www.graffiti.org/la/yelohvckyard.jpg">
 <img src="https://www.graffiti.org/la/influence.jpg">
 [DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48)
-<div class="pinupGallery">
-  <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
-  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
-  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
-  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
-</div>
+
 [Mahmoud Ahmed With Roha Band (1986)](https://www.youtube.com/watch?v=1o-kDk-O1H8)
 ## ANiMAL_FARM##ANiMATED##1954 
 [Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b0044674400667.5c2e83b770581.jpg">
 <img src="https://3.bp.blogspot.com/-0zhGOWFFSkc/XEWmH1y360I/AAAAAAAAFxA/9ugKLf2Vod8tIlyHlX8iys2uhHX473MNwCLcBGAs/s640/arada-vol-2.jpg">
+
 [Teddy Yo & Gentle Man - Arada, Vol. 2 ##ETHiOPiA](http://ethio-pain-music.blogspot.com/2019/01/teddy-yo-gentle-man-arada-vol-2-2018.html)
 [Bullfrog Battle Royale | The Mating Game | BBC Earth](https://youtu.be/rA4nIRKZ1m8) 
          ## TheMatingGame 
