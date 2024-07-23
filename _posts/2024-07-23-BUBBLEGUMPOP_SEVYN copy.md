@@ -403,7 +403,7 @@ table {
 	
 	
 body {
-background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
+
 }
 
 iframe {
