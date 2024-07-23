@@ -403,16 +403,7 @@ table {
 	
 	
 body {
-  color: white;
-	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) no-repeat center center fixed; 
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  line-height: 1.5;
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
 }
 
 iframe {
