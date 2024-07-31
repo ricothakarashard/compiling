@@ -113,8 +113,6 @@ Approved For Release tajp~reanj Drre TeZepat _Clairvayance and G~c,ma_grlet,ic A
 
 in the right pane you see the line below but the space b4 the '%' sign in the live site seems to be breaking the include statement that was the answer! now the background clause from the css file is covering the whole document... I dont get why the iframe did not render... maybe i need the markdown flag in the include
 
-{% include series.md %}
-{% include watchlist.md %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31x57WrQIBo?si=UC2V3R_SDvhxb1EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
