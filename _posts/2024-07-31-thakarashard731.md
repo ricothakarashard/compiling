@@ -2,7 +2,7 @@
 title: ThakaRashard Overflow Jul302024
 published: true
 ---
-[DJ Nyla Symone Talks New Music From Metro Boomin, Lil Wayne, Tory Lanez + More](https://www.youtube.com/watch?v=M6dwMkc4-Uw)
+[Tink On Pulling From Pain On New Album, Jhené Aiko, Hitmaka, Men Lying In 2024 + More](https://www.youtube.com/watch?v=9LWJgV9Aljw) [DJ Nyla Symone Talks New Music From Metro Boomin, Lil Wayne, Tory Lanez + More](https://www.youtube.com/watch?v=M6dwMkc4-Uw)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1421708635&color=%231f9c6f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wearedelasoul" title="De La Soul" target="_blank" style="color: #cccccc; text-decoration: none;">De La Soul</a> · <a href="https://soundcloud.com/wearedelasoul/in-the-woods-feat-shortie-no-1" title="In The Woods (feat. Shortie No Mass)" target="_blank" style="color: #cccccc; text-decoration: none;">In The Woods (feat. Shortie No Mass)</a></div>
 
