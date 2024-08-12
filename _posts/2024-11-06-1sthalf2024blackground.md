@@ -1,7 +1,8 @@
 ---
 layout: ricothaka1sthalf24
 title: 1stHalf20204
-published: true
+published: false
+
 carousels:
   - images: 
     - image: /uploads/androiddemo/image1.jpg
