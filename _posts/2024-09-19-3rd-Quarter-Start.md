@@ -1,7 +1,38 @@
 
 
+## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
+[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
+[Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
+[Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
+[facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
+[FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
+
+<IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
+
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - wAR aGAINST lOVE
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+![rough mars](https://www.mars.asu.edu/data/mola_roughness/small/mola_roughness.png)
+
 [Chloe Bailey Makes a Splash at St. Lucia Carnival](https://www.bet.com/article/4elui5/chloe-bailey-st-lucia-carnival-viral) [Social Media Sends Bhad Bhabie Prayers After She Shared THIS Video Following Her Abuse Claims Against Le Vaughn (WATCH)](https://theshaderoom.com/social-media-reacts-bhad-bhabie-kissing-video-claims-against-le-vaughn-watch/) [Chlöe and Halle Bailey Share When They Feel Most Confident and Some Tips for a Viral Fashion Moment](https://www.eonline.com/news/1384354/chloee-and-halle-bailey-share-when-they-feel-most-confident-and-tips-for-a-viral-fashion-moment) [Don Cheadle, Chloe Bailey, Lori Harvey And More Added To Peacock’s ‘Fight Night’ As Series Continues To Add To Ensemble](https://www.yahoo.com/news/don-cheadle-chloe-bailey-lori-174629273.html) [Chloe Bailey shocked to know TikTok stream can help her make money](https://www.thenews.com.pk/latest/1165806-chloe-bailey-shocked-to-know-tiktok-stream-can-help-her-make-money) [Cardi B Reacts To Chloe Bailey’s ‘Be Careful’ Cover](https://www.bet.com/article/z7km74/cardi-b-reacts-to-chloe-bailey-s-be-careful-cover)
 
+
+<div class="social">
+  <a href="https://twitter.com/moonlover404" target="_blank">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/149103/twitter.svg" alt="">
+  </a>
+
+</div>
+
+<iframe src="https://archive.org/embed/arcade_rtype2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
@@ -11,6 +42,28 @@
 ![normani tryre](https://static.stereogum.com/uploads/2024/07/25614876-04EB-48B1-8E67-AA70D7B75F7A-1721156229-1000x1000.jpg)
 [Tayla Parx Calls Out Normani For Not Crediting Her Work On “Insomnia”](https://www.stereogum.com/2271890/talya-parx-calls-out-normani-for-not-crediting-her-work-on-insomnia/news/)
 ![Stranger Things Party?](https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679979270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skyzoomusic" title="Skyzoo" target="_blank" style="color: #cccccc; text-decoration: none;">Skyzoo</a> · <a href="https://soundcloud.com/skyzoomusic/truck-jewels-feat-pete-rock" title="Truck Jewels" target="_blank" style="color: #cccccc; text-decoration: none;">Truck Jewels</a></div>
+
+[Omeretta The Great: SorryNot SorryYou Aint From](https://www.youtube.com/watch?si=Zi2yt5iayNqxS1h5&v=6IvchaA0B3Y&feature=youtu.be) [relatedTweet](https://x.com/MooNLOVER404/status/1830388299544121593)
+![weather](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-09p61um-sSep%2003%2C%202024%20-%2018_16%20UTC-eSep%2003%2C%202024%20-%2019_51%20UTC.gif)
+![fff](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-00p64um-sMay%2021%2C%202024%20-%2021_36%20UTC-eMay%2021%2C%202024%20-%2023_11%20UTC.gif)
+![ggg](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeseastabiconus-daycloudphase-sMay%2021%2C%202024%20-%2016_06%20UTC-eMay%2021%2C%202024%20-%2017_41%20UTC.gif)
+
+
+## Discs of Tron ![DiscsOfTron](https://upload.wikimedia.org/wikipedia/en/d/da/Discs_of_Tron_Flyer.png)
+Discs of Tron is the second arcade video game based on the 1982 Disney film Tron.[2][3] While the first Tron is a collection of four minigames, Discs of Tron is a single game inspired by Tron's disc-battles. It is set in an arena similar to the one in the jai alai–style sequence.
+[Archive](https://archive.org/details/arcade_dotron)
+<iframe src="https://archive.org/embed/arcade_dotron" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Run and Gun (ver EAA 1993 10.8)
+<iframe src="https://archive.org/embed/arcade_rungun" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![Rush](https://i.discogs.com/KLnJUaC8niAaQ3G1pKjBVsbIY-pzdH6zwX7nZv5WHZ0/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgz/MDYtMTY3Ny5qcGVn.jpeg)
+![RushCassette](https://m.media-amazon.com/images/I/51XLG-OID6L._UF1000,1000_QL80_.jpg)
+![RushCassettpaper](https://i.discogs.com/g50rHMOWF5gCgvzutWavk1aTvYOcVQJGCZfyTWZvDpE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgy/OTEtNjc4NS5qcGVn.jpeg)
+
 
 [ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. - TAKEN_FRON_WiKiPEDiA
 
@@ -68,6 +121,15 @@ By <a href="https://en.wikipedia.org/wiki/en:Gustave_Dor%C3%A9" class="extiw" ti
 ![Coral my figher from the nicu](https://pbs.twimg.com/media/GIMHX0HbUAAUA6B?format=jpg&name=large)
 ![DopeNiggaz_constanciashouseSartuzeeAnDMe](https://pbs.twimg.com/media/GIMHVTZbIAAHFX8?format=jpg&name=large)
 ![Graffiti](https://pbs.twimg.com/media/GIMEla9bEAAeKlZ?format=jpg&name=large)
+
+
+## I hope I dont offend you, I kept some things from Jehovahs witnesses but I personally threw watching "demonic_Movies" out of the window because I dont see anything wrong with non-exploitive folklore
+### Click_Tha_LiNKS
+[Vampire Hunter D (1985) [english-sub] [vostfr]](https://www.youtube.com/watch?v=sSr1WwuPmBs)
+[Vampire Hunter D Bloodlust English](https://www.youtube.com/watch?v=GEVHYLNf1mo)
+please let me know if either of these scrambles for you
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K9HtSXwB1Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -260,5 +322,35 @@ can i see coral?
 
 A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
 ![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%239c7434&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/temsbaby" title="Tems" target="_blank" style="color: #cccccc; text-decoration: none;">Tems</a> · <a href="https://soundcloud.com/temsbaby/free-mind" title="Free Mind" target="_blank" style="color: #cccccc; text-decoration: none;">Free Mind</a></div>
+<img src="https://video-images.vice.com/articles/584056ba5460bf4f35a54b57/lede/america-is-dying-slowly-resized-2.jpg">
+
+[America Is Dying Slowly Full](https://www.youtube.com/watch?v=mPCHG2VB4Hc)
+[20 Years Ago, Coolio, De La Soul, and the Rest of Rap Chipped in to Raise HIV/AIDS Awareness](https://www.vice.com/en/article/8gxb3b/20-years-ago-coolio-de-la-soul-and-the-rest-of-rap-chipped-in-to-raise-hivaids-awareness)
+
+<img src="https://images.footlocker.com/is/image/EBFL2/D5874700_a3?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/M8338800_a4?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/H8010101_a5?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/C9450100_a3?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/Q7783600_a4?wid=2000&hei=2000&fmt=png-alpha">
+
+
+#  its rashard that used to be at TatsCruCommunityCenterHuntsPoint and Normani husband... Thaka
+i think its gonna work out. Im scared of common, ill be honest all my hiphop heros got impersonated or not in my wifes prostitution in hollywood and im relearning to listen to music. Im sleeping outdoors finally so my body is more adept to breaking. iDk what CrazyLegs is going through but we had an RSC dancer taking classes at Dance411. If you heard of [Sammy Davis Jr.](https://www.youtube.com/watch?v=OXYndNL4Mu8). Anywat he old school playboy and his boys control alot of the girls. I cant remember if it was you or how long you were in america but i grew. I work at [NasaJPL](https://www.jpl.nasa.gov/) im just locked out and i have a lot of false allagation from knowingthose girls from Dance411. [Normani - Motivation](https://www.youtube.com/watch?v=FKXSh14svlQ) Thats her MudFace song and you can look. Man its that whole kunyaza thing and I got hurt feelings. Itsounds so gross at this point im sure [Uganda Parliament](https://www.parliament.go.ug/) knows i looked up the word [Kunyaza](https://www.parliament.go.ug/)... why did i do that?!?! 
+
+
+## Dear_House_of_reps
+I have been doing research on the planet mars in public for a bout 4 years. CNN is covering my work and i have trouble eating and communicating. My Family vanished and no Social Security number based resource will aid me. I am struggling with hunger at times and have no shelter. I have women i need to reconnect with to find out what happend. They got kidnapped just b4 covid and tricked me into coming to california, where i was supposed to be headed anyway! And i found out they are victims of a Sex MArket online and the Street Walking and Dancing is just for display. I am complaining about CNN bc Ashley Strickland has no issues communicating from what i see and im stalked and chased by Allied Universal who is the BodyGaurd people of choice of Atlanta's YallyWood and CentralNewsNetwork. I am a native so the girls i was raised to think would be my spouses are up for NBA, Comedy, Film < journalism and everyother industry to deposit semen into. I dont know where my daughter ios from 631 Moreland Ave's illegal eviciton of Rashard Iman Kelly after being denied resources by family services leading to the foprced abduction of Coral Iris Kelly from the home of Copnstancia Arriba. So her i am in Holly wood. I am dating a Popstar named Normani off an on an she plays MineCraft. So thats my side outside. She is really pretty and poses for Vogue but a dark part of her life is that the pictures she takes nude for various publications are used by the local sex trade to keep her marketable for visitors to the city of los angeles and healthy to maintain telepathy for local criminals. She is my best friend(at this level(coral that shit 100bruh)). And since she is mixing with a lot of media i think my blogging gets into the hands of ppl with the power to publish at will. I need balance and a kind cooling center. CNN since we are working to gether can you help me off the streets digitally, can you  help me reconcile my family? Rashard Kelly aka Thaka(Muna Husband, Latto City Erika n nem Husband ) out NasaJPl Mars Mission Address: Jet Propulsion Laboratory, 4800 Oak Grove Dr, Pasadena, CA 91011 [Please Read](https://thakarashard.github.io/ricothaka/dispositionforsherrif)
+
+#TwitterBlock  Screen Recording 2024 08 19 11.55.48 AM <iframe src="https://archive.org/embed/screen-recording-2024-08-19-11.55.48-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+<a href="https://ricothaka.github.io/worknotes01"><img src="https://pbs.twimg.com/media/GVJMo0haYAAQRdu?format=jpg&name=large" alt="ricothaka.github.io"> </a>
+
+
 
 
