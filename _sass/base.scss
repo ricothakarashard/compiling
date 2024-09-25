@@ -151,22 +151,21 @@ font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 font-size: 1rem;
 margin:0px;
 padding:0px;
-background: repeating-linear-gradient(
-  to right,
-  transparent,
-  transparent 53px,
-  rgb(255 255 255 / 0.9) 55px,
-  rgb(255 255 255 / 0.2) 55px
-),
-repeating-linear-gradient(
-  to bottom,
-  transparent,
-  transparent 52px,
-  rgb(255 255 255 / 0.5) 55px,
-  rgb(255 255 255 / 0.5) 55px
-),
-linear-gradient(90deg, #030303, black);
-background-size: 55px 55px;
+color: white;
+height: 100%;
+width: 100%;
+margin: 15px;
+background: 
+linear-gradient(45deg,
+  #08a0e9 25%,
+  dodgerblue 0,
+  dodgerblue 50%,
+  #08a0e9 0,
+  #08a0e9 75%,
+  dodgerblue 0), url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg) ;
+background-size: 80.4px 80.4px;
+font-family: "VT323", monospace;
+background-attachment: fixed;
 height: 100vh;
 width: 100vw;
 
@@ -198,7 +197,7 @@ body {
 p {
   text-shadow: whitesmoke 0px 0px 2px;
   display: block;
-  padding: 0 0 0 2%;
+  padding: 5px;
   text-align: left;
   color: white;
   background: black;
