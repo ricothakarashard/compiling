@@ -1,3 +1,5 @@
+![Mars HElicopter](https://photojournal.jpl.nasa.gov/archive/PIA25321.gif)
+![Curiosity](https://photojournal.jpl.nasa.gov/archive/PIA17938.gif)
 # Broken Builds
 Usually its in the .css/.scss file where my [build breaks](https://github.com/ricoThaka/compiling/actions/runs/11040779623/job/30784563669). i was porting some old code from BubblegumPop, a repo my friend an spouse uses to do something with her girlfriends when social media breaks... Now im being asked for new functionality bc `actions/upload-artifact@v4 or later` is not present. I had to add to the Buildfile and now the site and 3 other sites are not complaining and accepting new MarkDown and MarkUp [i shared a cheetsheet below ](#MArkDown-QuickFacts).
 
