@@ -40,21 +40,9 @@ Like a pussy i turned off [linting](https://docs.github.com/en/contributing/coll
 [Is HTML a programming language? - theserverside.com](https://www.theserverside.com/feature/Is-HTML-a-programming-language)
 
 
+# The Build File 
 
-
-```log
-Found 0 artifact(s)
-##[debug]List artifact count: 0
-Error: Fetching artifact metadata failed. Is githubstatus.com reporting issues with API requests, Pages, or Actions? Please re-run the deployment at a later time.
-Error: Error: No artifacts named "github-pages" were found for this workflow run. Ensure artifacts are uploaded with actions/upload-artifact@v4 or later.
-    at getArtifactMetadata (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/api-client.js:85:1)
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at Deployment.create (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/deployment.js:66:1)
-    at main (/home/runner/work/_actions/actions/deploy-pages/v4/src/index.js:30:1)
-Error: Error: No artifacts named "github-pages" were found for this workflow run. Ensure artifacts are uploaded with actions/upload-artifact@v4 or later.
-##[debug]Node Action run completed with exit code 1
-##[debug]Finishing: Deploy to GitHub Pages
-```
+Here is the old Build file and the added and updated file is belo, i embedded a gist to see if my browser will throw that 200error
 
 ```yml
 on:
