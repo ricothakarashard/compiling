@@ -152,3 +152,6 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 ![Mars HElicopter](https://photojournal.jpl.nasa.gov/archive/PIA25321.gif)
 ![Curiosity](https://photojournal.jpl.nasa.gov/archive/PIA17938.gif)
 ![Betty's Rock](https://photojournal.jpl.nasa.gov/jpegMod/PIA25656_modest.jpg)
+
+![NASAJPL](https://upload.wikimedia.org/wikipedia/commons/b/b6/NASA_Jet_Propulsion_Laboratory_%28JPL%29_Logo.webp)
+![ECOSTRESS](https://ecostress.jpl.nasa.gov/logo.png)
