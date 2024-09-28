@@ -1,5 +1,4 @@
-![Mars HElicopter](https://photojournal.jpl.nasa.gov/archive/PIA25321.gif)
-![Curiosity](https://photojournal.jpl.nasa.gov/archive/PIA17938.gif)
+
 
 # Broken Builds
 Usually its in the .css/.scss file where my [build breaks](https://github.com/ricoThaka/compiling/actions/runs/11040779623/job/30784563669). i was porting some old code from BubblegumPop, a repo my friend an spouse uses to do something with her girlfriends when social media breaks... Now im being asked for new functionality bc `actions/upload-artifact@v4 or later` is not present. I had to add to the Buildfile and now the site and 3 other sites are not complaining and accepting new MarkDown and MarkUp [i shared a cheetsheet below ](#MArkDown-QuickFacts).
@@ -24,7 +23,11 @@ Error: Error: No artifacts named "github-pages" were found for this workflow run
 
 
 
-Like a pussy i turned off linting. it was really helping me grow as an [HTML PRogrammer](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) some argue its not a [Programming Language](https://github.com/resources/articles/software-development/what-is-a-programming-language) theres just different types and HTNL is a [Markup Language](https://en.wikipedia.org/wiki/Markup_language). From my understanding at this point [MarkDown](https://www.markdownguide.org/) is just a collapesed subset that reducses the steps to publish text to device. Like theres no [KramDown](https://kramdown.gettalong.org/) object or [Video]() without knowing [LiquiD](https://jekyllrb.com/docs/liquid/)
+Like a pussy i turned off linting. it was really helping me grow as an [HTML PRogrammer](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) some argue its not a [Programming Language](https://github.com/resources/articles/software-development/what-is-a-programming-language) theres just different types and HTNL is a [Markup Language](https://en.wikipedia.org/wiki/Markup_language). From my understanding at this point [MarkDown](https://www.markdownguide.org/) is just a collapesed subset that reducses the steps to publish text to device. Like theres no [KramDown](https://kramdown.gettalong.org/) object or [Video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) without knowing [LiquiD](https://jekyllrb.com/docs/liquid/)
+
+
+
+- [Rashard MRO](https://ricothaka.github.io/rashardmro/)
 
 [Embedding videos #91 [KramDown User 2014]](https://github.com/mmistakes/minimal-mistakes/issues/91)
 
@@ -158,5 +161,6 @@ Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
 
-- [Rashard MRO](https://ricothaka.github.io/rashardmro/)
+![Mars HElicopter](https://photojournal.jpl.nasa.gov/archive/PIA25321.gif)
+![Curiosity](https://photojournal.jpl.nasa.gov/archive/PIA17938.gif)
 ![Betty's Rock](https://photojournal.jpl.nasa.gov/jpegMod/PIA25656_modest.jpg)
