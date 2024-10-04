@@ -757,6 +757,28 @@ The group, dubbed the "Reflector Vest Crew," was arrested in a joint operation o
 [BODY ARMOR FOR THE SECURITY INDUSTRY](https://www.safeguardclothing.com/blogs/articles/body-armor-for-the-security-industry)
 ![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
 
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.youtube.com/watch?v=qFfgx-CDBjA"><img src="https://i.ebayimg.com/images/g/C8UAAOSwiAtm0j3K/s-l1600.webp"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.youtube.com/watch?v=X7gIKNEZBjY"><img src="https://i.ebayimg.com/images/g/NGIAAOSwEatm0j3M/s-l1600.webp"></a>
+         </div>
+
+
+ <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://pbs.twimg.com/media/GYB8UYZb0AIRjVY?format=jpg&name=large"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
 
 
 ## Proposition 64: The Adult Use of Marijuana Act
