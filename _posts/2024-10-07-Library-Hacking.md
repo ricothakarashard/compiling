@@ -8,15 +8,15 @@ Taylor Fox spent five years working at libraries before joining Cybercrime Magaz
 ## British Library cyberattack
 
 In October 2023 Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data. When the British Library did not acquiesce to the attempt, Rhysida publicly released approximately 600GB of leaked material online. 
-```
-== Attack methods ==
-The Library stated that the attackers probably used a [[phishing]], [[spear-phishing]] or [[brute-force attack]] facilitated by a compromise of third-party credentials as well as a lack of use of multi-factor authentication by the library. After gaining access, Rhysida used three methods to identify and copy the 600GB of documents during the attack, including personal details of Library users and staff. These were:<ref name=":9" />
 
-# A targeted attack that copied full sections of [[Network drive|network drives]] of the Library's Finance, Technology and People teams, which made up 60% of all content copied.
-# A [[keyword attack]] which scanned for files and folders that used sensitive keywords in their names, including 'passport' or 'confidential', which constituted 40% of the copied data and included files from [[Corporate network|corporate networks]] and personal drives used by staff.
-# A hijacking of native utilities, which were than used to forcibly create backup copies of 22 databases of data including contact details of external users and customers.
+== Attack methods ==
+>The Library stated that the attackers probably used a [[phishing]], [[spear-phishing]] or [[brute-force attack]] facilitated by a compromise of third-party credentials as well as a lack of use of multi-factor authentication by the library. After gaining access, Rhysida used three methods to identify and copy the 600GB of documents during the attack, including personal details of Library users and staff. These were:<ref name=":9" />
+
+- A targeted attack that copied full sections of [[Network drive|network drives]] of the Library's Finance, Technology and People teams, which made up 60% of all content copied.
+- A [[keyword attack]] which scanned for files and folders that used sensitive keywords in their names, including 'passport' or 'confidential', which constituted 40% of the copied data and included files from [[Corporate network|corporate networks]] and personal drives used by staff.
+- A hijacking of native utilities, which were than used to forcibly create backup copies of 22 databases of data including contact details of external users and customers.
 
 Furthermore, Rhysida and its affiliates destroyed servers to inhibit system recovery and [[Forensic science|forensic analysis]].<ref name=":9" />
-```
+
 
 [https://en.wikipedia.org/wiki/British_Library_cyberattack](https://en.wikipedia.org/wiki/British_Library_cyberattack)
