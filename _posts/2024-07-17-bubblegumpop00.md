@@ -283,7 +283,7 @@ a {
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 
-  <video controls width="100%" loop >
+  <video controls preload="none"controls width="100%" loop >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
 
    </video>
@@ -303,7 +303,7 @@ a {
 
 <h2> LiGHTSKiNKEiSHA_my_WiFE - FDH </h2>
 
-  <video controls width="100%" >
+  <video controls preload="none"controls width="100%" >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/FDH_LSK.mp4" type="video/mp4">
 
    </video>
@@ -919,7 +919,7 @@ Rhythmbox is a great application, especially for beginners, you can link most if
 
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 
-  <video controls width="100%" >
+  <video controls preload="none"controls width="100%" >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
 
    </video>
@@ -966,7 +966,7 @@ where my family friend Coalas and Fred jr grew at an eary pre-Watchtower point T
 [THE UK's CROWN_PROSECUTION_SERVICE SEXUAL_OFFENSE GUiDE](https://www.cps.gov.uk/crime-info/sexual-offences)
 [DEAR_LOS_ANGELES_HOW_DO_WE_PROSECUTE CYBER_BULLYiNG?!?!?](https://www.cps.gov.uk/crime-info/cyber-online-crime)
 
- <video width="100%" controls>
+ <video controls preload="none"width="100%" controls>
   <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
   
   Your browser does not support HTML video.
@@ -1051,7 +1051,7 @@ Sex educator and artist Betty Dodson had been teaching her famous Bodysex worksh
 [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) 
 [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
 	
-<video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%"><source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4"></video>
+<video controls preload="none"style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%"><source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4"></video>
 
 <img src="https://cdn.shopify.com/s/files/1/0105/4542/products/wildstyle-downbythe-7inch-1_1000x1000.jpg?v=1651068862">
 <a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
@@ -2539,7 +2539,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9ENMHp4DKEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jf63Wv6Atl8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zrY8TPi0kIs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<video controls width="100%">
+<video controls preload="none"controls width="100%">
     <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.

@@ -110,7 +110,7 @@ A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of st
 
 These are from the official uncut subtitled edition VHS tapes released by Pioneer Entertainment
  . [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Sailor_Moon)
-<video controls 
+<video controls preload="none"controls 
   src="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4"
   poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm51ZDhkdDR1MHh5YjVxMHg2aXI0a25ydWU1MjM5M3ZvN2hoMnl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Djk6OV5llwUb6/giphy.webp">
 
@@ -130,7 +130,7 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
 ## Live Action 
 ### Knight Rider 2010 (1994)
 Loosely based on the popular television series of the 80's, this movie brings the story into an apocalyptic time and a new "KITT". [imdb](https://www.imdb.com/title/tt0110273/) /////// Knight Rider 2010 is a 1994 American science fiction action television film directed by Sam Pillsbury and written by John Leekley, loosely based on the television series Knight Rider. The film stars Richard Joseph Paul, Heidi Leick, Michael Beach, and Don McManus. It aired in syndication in the United States on February 13, 1994, as part of Universal Television's Action Pack programming block. [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Knight_Rider_2010)
-<video controls 
+<video controls preload="none"controls 
   src="https://archive.org/download/knight-rider-2010-1994/Knight%20Rider%202010-%201994.mp4"
   poster="https://m.media-amazon.com/images/M/MV5BMjJiYjYyZTAtM2ViMi00Yjg3LWJmZjItYTNhNjI5YzUzYmQxXkEyXkFqcGdeQXVyMjQ4Nzk0MDU@._V1_FMjpg_UX1000_.jpg">
 
@@ -174,7 +174,7 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
-<video controls 
+<video controls preload="none"controls 
   src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
   poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
 
@@ -220,7 +220,7 @@ We emphasize transparency both in how the mosaic was generated and for users to 
 
 # Vanessa, im convinced its you
 ![Vanessa, im convinced its you](https://pbs.twimg.com/media/GPf8SyoaIAEEz1X?format=jpg&name=large)
-<video controls 
+<video controls preload="none"controls 
   src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
   >

@@ -321,7 +321,7 @@ JAY-Z - The Story of O.J. [Jay Z Goes on Twitter Spree Thanking Influences After
 
 [RetroArch Tutoria](https://forums.libretro.com/t/retroarch-tutorial/24164) i was outside [CityHall Los Angles](https://mayor.lacity.gov/news/mayor-bass-signs-city-council-motion-fly-pride-flag-over-city-hall-first-time-ever) And wanted to play [Ridge Racer](https://en.wikipedia.org/wiki/Ridge_Racer_(1993_video_game)) at the last minute i forgot what i was doing but you can see that with Termux its a regular [PowerUser](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-power-in-power-users/ba-p/723522) computer. "he Power Users group is able to install software, manage power and time-zone settings, and install ActiveX controls, actions that limited Users are denied." - [TechCommunityAPIAdminTechCommunityAPIAdmin](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/75284#profile) [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive) [The Case of the Father-in-Law’s Scareware](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-case-of-the-father-in-law-8217-s-scareware/ba-p/724376)
 
-<video controls poster="https://upload.wikimedia.org/wikipedia/en/d/d3/Ridge_Racer_Coverart.png">
+<video controls preload="none"controls poster="https://upload.wikimedia.org/wikipedia/en/d/d3/Ridge_Racer_Coverart.png">
     
 <source src="https://ia800602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4" type="video/mp4" />
          Download the
@@ -350,7 +350,7 @@ JAY-Z - The Story of O.J. [Jay Z Goes on Twitter Spree Thanking Influences After
 
 [Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ) [OST](https://youtu.be/C5fwP6pYXtk?si=H-uzFb4KVa8zvdLq)
 
-<video controls 
+<video controls preload="none"controls 
   src="https://archive.org/download/tumblr_rtylmxBjam1zhx4f1/tumblr_rtylmxBjam1zhx4f1.mp4"
   poster="https://pbs.twimg.com/media/F7dh62nbYAA8wS0?format=jpg&name=medium">
 

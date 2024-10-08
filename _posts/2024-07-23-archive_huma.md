@@ -1318,7 +1318,7 @@ This is a recording from a show my fellow JamesBrown student, and HELLA_DOPE_DiS
 <div class="panel4-container">
 
   <div class="item1">
-    <video width="300" autoplay loop muted>
+    <video controls preload="none"width="300" autoplay loop muted>
       <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
@@ -1326,7 +1326,7 @@ This is a recording from a show my fellow JamesBrown student, and HELLA_DOPE_DiS
   </div>
 
   <div class="item2">
-    <video width="300" autoplay loop muted>
+    <video controls preload="none"width="300" autoplay loop muted>
       <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
@@ -1334,14 +1334,14 @@ This is a recording from a show my fellow JamesBrown student, and HELLA_DOPE_DiS
   </div>
 
   <div class="item3">
-    <video width="300" autoplay loop muted>
+    <video controls preload="none"width="300" autoplay loop muted>
       <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
   </div>
 
   <div class="item4">
-    <video width="300" autoplay loop muted>
+    <video controls preload="none"width="300" autoplay loop muted>
       <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
@@ -2240,7 +2240,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
 
   <img src="https://images.ctfassets.net/8cd2csgvqd3m/3JLcz8pBBxRlppptAEZxGL/9451703d75da93d44281d8c3907c9065/Beosound_stage_Carousel_2.jpg">
   <img src="https://images.ctfassets.net/8cd2csgvqd3m/3w3dmWdE6FvGngML2X3TR7/a18f67d5d5c014ddf03eafff15eff48d/Beosound-Stage_Carousel_1.jpg">
-  <video width="80%" controls>
+  <video controls preload="none"width="80%" controls>
     <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
 
     Your browser does not support HTML video.
@@ -2261,7 +2261,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
   <iframe width="50%" height="315" src="https://www.youtube.com/embed/cNwuPPOcJLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <iframe width="80%" height="315" src="https://www.youtube.com/embed/TCZp4FaIFH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <iframe width="70%" height="315" src="https://www.youtube.com/embed/nf5D3TVkd_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
-  <video width="80%" controls>
+  <video controls preload="none"width="80%" controls>
     <source src="https://v2.kickstarter.com/1658743300-%2B92NQeoHk4ENUm6ih6yt%2BjOoDifb6I%2BJax2SUZOGei8%3D/projects/765297/video-320064-h264_high.mp4" type="video/mp4">
 
     Your browser does not support HTML video.

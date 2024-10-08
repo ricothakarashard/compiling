@@ -115,7 +115,7 @@ The value of the viewBox attribute is a list of four numbers separated by whites
 Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress addressing the issue affecting the SHERLOC instrument’s Autofocus Context Imager (ACI), but at present the instrument’s Raman spectroscopic capability remains offline. [Team Assessing SHERLOC Instrument on NASA’s Perseverance Rover](https://www.jpl.nasa.gov/news/team-assessing-sherloc-instrument-on-nasas-perseverance-rover/)
 ![img](https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA24925_MAIN-1900.jpg)
 
-<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
+<video controls preload="none"controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
 

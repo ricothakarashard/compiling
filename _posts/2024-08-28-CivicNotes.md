@@ -150,7 +150,7 @@ In 1975, a communist regime known as the Khmer Rouge conquered the Cambodian cap
 ### Divide and Conquer (film)
 [Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
 
-<video controls 
+<video controls preload="none"controls 
   src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
   poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
 
@@ -545,7 +545,7 @@ https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGS
 
 [Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ)
 
-<video controls autoplay
+<video controls preload="none"controls autoplay
   src="https://archive.org/download/tumblr_rtylmxBjam1zhx4f1/tumblr_rtylmxBjam1zhx4f1.mp4"
   poster="https://pbs.twimg.com/media/F7dh62nbYAA8wS0?format=jpg&name=medium">
 

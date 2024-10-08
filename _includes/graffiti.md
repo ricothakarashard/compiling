@@ -11,7 +11,7 @@ I did graffiti as a neighborhood person. Its so home_eck please take your time a
 <iframe width="960" height="540" src="https://www.youtube.com/embed/Tda2zyvImVI" title="TATS CRU The Mural Kings 2006" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # [Files for STYLE_WARS_(1983)](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/)
-<video controls width="100%" height="auto" poster="https://64.media.tumblr.com/tumblr_lxvuedIy9E1qfrsjro1_500.gif">
+<video controls preload="none"controls width="100%" height="auto" poster="https://64.media.tumblr.com/tumblr_lxvuedIy9E1qfrsjro1_500.gif">
 
   <source src="https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4" type="video/mp4" />
   <source src="https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4" type="video/mp4" />
@@ -47,7 +47,7 @@ I did graffiti as a neighborhood person. Its so home_eck please take your time a
 <iframe width="972" height="729" src="https://www.youtube.com/embed/s48GO6tBm3A" title="GZA - Cold World ft. Inspectah Deck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # [wild-style-1983](https://en.wikipedia.org/wiki/Wild_Style)
-<video controls width="100%" height="auto" poster="https://canvas.tubitv.com/opts/1LS7UlpugP202w==/a74e0a3b-b6a4-4767-bbc2-f815940bd4d1/CIAPELgIOgUxLjEuMg==">
+<video controls preload="none"controls width="100%" height="auto" poster="https://canvas.tubitv.com/opts/1LS7UlpugP202w==/a74e0a3b-b6a4-4767-bbc2-f815940bd4d1/CIAPELgIOgUxLjEuMg==">
 
   <source src="https://archive.org/download/wild-style-1983-1080p-web-dl-ddp-2.0-h-264/Wild.Style.1983.1080p.AMZN.WEB-DL.DDP2.0.H.264-ETHiCS.mp4" type="video/mp4" />
   <source src="https://archive.org/download/wild-style-1983-1080p-web-dl-ddp-2.0-h-264/Wild.Style.1983.1080p.AMZN.WEB-DL.DDP2.0.H.264-ETHiCS.mkv" type="video/mkv" />

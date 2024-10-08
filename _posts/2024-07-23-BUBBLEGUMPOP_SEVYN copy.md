@@ -1567,7 +1567,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9ENMHp4DKEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jf63Wv6Atl8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zrY8TPi0kIs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<video controls width="100%">
+<video controls preload="none"controls width="100%">
     <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -2646,13 +2646,13 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
 ## HTML5 Video (w3SCHOOLS_eXAMPLE)
 [Bare_Bones_HTML5 Video_Embed](https://www.w3schools.com/html/html5_video.asp)
 [iFRAMES_HAVE_BEEN_DEPRECATED_FOR_YEARS](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe), IDK##Why_YouTube_and_ViMEO##iNSiST_OWN_USiNG_DEM_TiNGS?!?! My shit bout tah be clean! As I read the article <FRAME> not <iFRAME> is deprecated but the HTML5 <em> video </em> tag appears much more useful for my purposes.
-	   {% highlight html %} <video width="320" height="240" controls>
+	   {% highlight html %} <video controls preload="none"width="320" height="240" controls>
       <source src="movie.mp4" type="video/mp4">
       <source src="movie.ogg" type="video/ogg">
       <-- Your browser does not support the video tag. -->
     </video> {% endhighlight %} <em> Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information. ### HTML5 tEST -> [ALL_ABOUT_Que] https://youtu.be/wGAQNzCXX-c 
 	
-<video width="50%" height="50%" style="clear:left; float: left" controls>
+<video controls preload="none"width="50%" height="50%" style="clear:left; float: left" controls>
         <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4">
       </video>
 

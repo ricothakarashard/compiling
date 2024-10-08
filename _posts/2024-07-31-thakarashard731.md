@@ -48,7 +48,7 @@ Approved For Release tajp~reanj Drre TeZepat _Clairvayance and G~c,ma_grlet,ic A
 [9 Surprising Facts About The Pontiac Trans Am From Smokey And The Bandit](https://www.hotcars.com/surprising-facts-pontiac-trans-am-from-smokey-and-the-bandit/)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
 
-<video controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
+<video controls preload="none"controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
 
   <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4" type="video/mp4" />
   <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.ogv" type="video/ogg" />
@@ -67,7 +67,7 @@ Approved For Release tajp~reanj Drre TeZepat _Clairvayance and G~c,ma_grlet,ic A
 
 ![Short Circuit Johnny 5](https://m.media-amazon.com/images/M/MV5BYTk5ZmVjOWQtZmNiMC00ZTQ1LWI2NDAtZWZhMGUyMzFjMzk0XkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg)
 
-<video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
+<video controls preload="none"controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
 
 <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
@@ -81,7 +81,7 @@ Approved For Release tajp~reanj Drre TeZepat _Clairvayance and G~c,ma_grlet,ic A
 
 [Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4)
 [1946 Los Angeles at Night | 4k and Remastered](https://www.youtube.com/watch?v=_x-0XH4A-PE) [Tekken The Motion Picture (English Dubbed) [VHS]](https://www.youtube.com/watch?v=AZb6KbZ6VJ4) [Variable Geo (English Dubbed) [VHS]](https://www.youtube.com/watch?v=B4vpSjd-XPU) [Roujin Z (English Dubbed) [VHS]](https://www.youtube.com/watch?v=itg4zKaUMgY)[Roujin Z (1991) [Japanese] [English Subtitles] reddit](https://www.reddit.com/r/fullforeignmovies/comments/tjo6os/roujin_z_1991_japanese_english_subtitles/) [Subtitles for Roujin Z](https://subf2m.co/subtitles/roujin-z/english) [OpenSubtitles dOt oRg](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-11272)
-<video controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
+<video controls preload="none"controls width="100%" height="auto" poster="https://archive.org/download/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin.thumbs/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin_000075.jpg">
 
 <source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/roujin-z-1991_202401/Roujin.Z.1991.JAPANESE-VXT.mp4" type="video/mp4" />
