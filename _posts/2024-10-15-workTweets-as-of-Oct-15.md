@@ -57,13 +57,13 @@ video {
 .twitterbox {
   display:flex;
   flex-flow: row wrap;
-  max-width: 1100px;
+  width: max-content;
 } 
 
 
 .tweet {
 
-  flex: 1 1 400px;
+  flex: 1 1 200px;
 
 }
 
