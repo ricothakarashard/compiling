@@ -6,14 +6,13 @@
 
 
 #content {
-  border-radius: 31px 31px 31px 31px;
-  width: 70vw; 
+  border-radius: 0px 0px 0px 0px;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
   padding: 20px;
   height: 70vh;
   overflow-y: auto;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   margin-right: auto;
   margin-left: auto; 	
   border: 19px solid #262626;
@@ -54,18 +53,22 @@ video {
 
 
 }
+
+
+
+
+
+
+
 .twitterbox {
-  display:flex;
-  flex-flow: row wrap;
-  width: max-content;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-rows: masonry;
 } 
 
 
-.tweet {
 
-  flex: 1 1 200px;
-
-}
 
 
 
@@ -80,7 +83,7 @@ video {
   
 <div id="content">
       
-      
+      # Twitter Post Related To Day To Day living
  
 <div class="twitterbox">
 
