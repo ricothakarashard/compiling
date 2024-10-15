@@ -6,7 +6,7 @@
 
 
 #content {
-
+column-count: 3;
   border-radius: 0px 0px 0px 0px;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
