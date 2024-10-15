@@ -55,13 +55,9 @@ video {
 
 .twitterbox {
   display: grid;
-  gap: 0px;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  grid-template-rows: masonry;
-} 
-
-
-
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 200px;
+}
 
 
 
