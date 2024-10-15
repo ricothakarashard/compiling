@@ -9,7 +9,7 @@
   border-radius: 0px 0px 0px 0px;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
-  padding: 20px;
+  padding: 0px;
   height: 70vh;
   overflow-y: auto;
   margin-bottom: 0px;
@@ -27,12 +27,8 @@
   -o-background-size: cover;
   background-size: cover;
 
-    }
+}
 
-
-     img { width: 100%;
-    max-width:100%;
-  }
 
 
 
@@ -52,9 +48,6 @@ video {
 
 
 
-}
-
-
 
 
 
@@ -62,7 +55,7 @@ video {
 
 .twitterbox {
   display: grid;
-  gap: 10px;
+  gap: 0px;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   grid-template-rows: masonry;
 } 
