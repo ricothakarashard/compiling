@@ -7,11 +7,6 @@
 
 #content {
 
-      display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 200px;
-
-
   border-radius: 0px 0px 0px 0px;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
@@ -58,13 +53,6 @@ video {
 
 
 
-
-.twitterbox {
-
-}
-
-
-
     </style>
 
 
@@ -76,7 +64,7 @@ video {
   
 <div id="content">
       
-      # Twitter Post Related To Day To Day living
+    
  
 
 
