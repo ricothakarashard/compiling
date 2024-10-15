@@ -8,8 +8,9 @@
 #content {
   
 display: flex;
-flex-flow: column wrap;
 column-count: 3;
+flex-direction: column;
+
   border-radius: 0px 0px 0px 0px;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
