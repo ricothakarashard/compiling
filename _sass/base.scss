@@ -254,6 +254,8 @@ p:first-of-type {
 }
 
 #MAiN {
+  display: grid;
+  grid-column: auto;
   margin: 0 auto;
   width: 55vw;
   height: 99vh;

@@ -6,6 +6,12 @@
 
 
 #content {
+
+      display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 200px;
+
+
   border-radius: 0px 0px 0px 0px;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
@@ -54,9 +60,7 @@ video {
 
 
 .twitterbox {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 200px;
+
 }
 
 
@@ -74,7 +78,7 @@ video {
       
       # Twitter Post Related To Day To Day living
  
-<div class="twitterbox">
+
 
    <div class="tweet"><div class="tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CiscoHypershield?src=hash&amp;ref_src=twsrc%5Etfw">#CiscoHypershield</a> you gonna be in jail b4 u use it! <a href="https://twitter.com/TedRossLA?ref_src=twsrc%5Etfw">@TedRossLA</a> is using <a href="https://twitter.com/ChuckRobbins?ref_src=twsrc%5Etfw">@ChuckRobbins</a> <a href="https://twitter.com/hashtag/cyberbullyingsoftware?src=hash&amp;ref_src=twsrc%5Etfw">#cyberbullyingsoftware</a> to lock out <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@nasa</a>. U guys look like shit <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://t.co/tpQW6RrvEo">https://t.co/tpQW6RrvEo</a> ~&gt; <a href="https://twitter.com/hashtag/ReadDat?src=hash&amp;ref_src=twsrc%5Etfw">#ReadDat</a> ~&gt; <a href="https://t.co/XXSFeghko3">https://t.co/XXSFeghko3</a> <a href="https://twitter.com/hashtag/Article1?src=hash&amp;ref_src=twsrc%5Etfw">#Article1</a> <a href="https://twitter.com/hashtag/Sec9?src=hash&amp;ref_src=twsrc%5Etfw">#Sec9</a> <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/KarenBassLA?ref_src=twsrc%5Etfw">@KarenBassLA</a> <a href="https://t.co/2tfQB8wrwV">pic.twitter.com/2tfQB8wrwV</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1844545806520774913?ref_src=twsrc%5Etfw">October 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
@@ -197,21 +201,21 @@ video {
 
 
    
-  <div class="tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/beingfast?src=hash&amp;ref_src=twsrc%5Etfw">#beingfast</a> <a href="https://t.co/h6LYRiTuBT">https://t.co/h6LYRiTuBT</a> <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> i am not comfortable with <a href="https://twitter.com/hashtag/OpenTreason?src=hash&amp;ref_src=twsrc%5Etfw">#OpenTreason</a> <a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a> if <a href="https://twitter.com/kendricklamar?ref_src=twsrc%5Etfw">@kendricklamar</a> kill me, at least i die knowing i out perfomed you <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://twitter.com/Jeezy?ref_src=twsrc%5Etfw">@Jeezy</a> <a href="https://twitter.com/gucci1017?ref_src=twsrc%5Etfw">@gucci1017</a> // <a href="https://twitter.com/12ozProphet?ref_src=twsrc%5Etfw">@12ozProphet</a> thanks 4 the help <a href="https://twitter.com/hashtag/atlantagraffiti?src=hash&amp;ref_src=twsrc%5Etfw">#atlantagraffiti</a> <a href="https://twitter.com/hashtag/Skatetwitter?src=hash&amp;ref_src=twsrc%5Etfw">#Skatetwitter</a> thats sartu! <a href="https://t.co/tpUQBzIJ2c">pic.twitter.com/tpUQBzIJ2c</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1717961520045592776?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>
+  <div class="tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/beingfast?src=hash&amp;ref_src=twsrc%5Etfw">#beingfast</a> <a href="https://t.co/h6LYRiTuBT">https://t.co/h6LYRiTuBT</a> <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> i am not comfortable with <a href="https://twitter.com/hashtag/OpenTreason?src=hash&amp;ref_src=twsrc%5Etfw">#OpenTreason</a> <a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a> if <a href="https://twitter.com/kendricklamar?ref_src=twsrc%5Etfw">@kendricklamar</a> kill me, at least i die knowing i out perfomed you <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://twitter.com/Jeezy?ref_src=twsrc%5Etfw">@Jeezy</a> <a href="https://twitter.com/gucci1017?ref_src=twsrc%5Etfw">@gucci1017</a> // <a href="https://twitter.com/12ozProphet?ref_src=twsrc%5Etfw">@12ozProphet</a> thanks 4 the help <a href="https://twitter.com/hashtag/atlantagraffiti?src=hash&amp;ref_src=twsrc%5Etfw">#atlantagraffiti</a> <a href="https://twitter.com/hashtag/Skatetwitter?src=hash&amp;ref_src=twsrc%5Etfw">#Skatetwitter</a> thats sartu! <a href="https://t.co/tpUQBzIJ2c">pic.twitter.com/tpUQBzIJ2c</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1717961520045592776?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 
 
 
   
-   <div class="tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/L7RFF20Asw">https://t.co/L7RFF20Asw</a> <a href="https://t.co/9o8Ae9Si5R">https://t.co/9o8Ae9Si5R</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@MsNormani</a> <a href="https://twitter.com/theestallion?ref_src=twsrc%5Etfw">@theestallion</a> <a href="https://twitter.com/hashtag/BLACKTWiTTER?src=hash&amp;ref_src=twsrc%5Etfw">#BLACKTWiTTER</a> <a href="https://twitter.com/_HaroldsChicken?ref_src=twsrc%5Etfw">@_HaroldsChicken</a> plz pass this to <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> and tell her i love her <a href="https://t.co/N0sPG2LBGH">pic.twitter.com/N0sPG2LBGH</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1723483861831880719?ref_src=twsrc%5Etfw">November 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>              </div>
+<div class="tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/L7RFF20Asw">https://t.co/L7RFF20Asw</a> <a href="https://t.co/9o8Ae9Si5R">https://t.co/9o8Ae9Si5R</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@MsNormani</a> <a href="https://twitter.com/theestallion?ref_src=twsrc%5Etfw">@theestallion</a> <a href="https://twitter.com/hashtag/BLACKTWiTTER?src=hash&amp;ref_src=twsrc%5Etfw">#BLACKTWiTTER</a> <a href="https://twitter.com/_HaroldsChicken?ref_src=twsrc%5Etfw">@_HaroldsChicken</a> plz pass this to <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> and tell her i love her <a href="https://t.co/N0sPG2LBGH">pic.twitter.com/N0sPG2LBGH</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1723483861831880719?ref_src=twsrc%5Etfw">November 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>              
 
   
 <div class="tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/0zk42q9cuy">https://t.co/0zk42q9cuy</a> <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/hashtag/Robin?src=hash&amp;ref_src=twsrc%5Etfw">#Robin</a> i wrote u a note on <a href="https://t.co/gqrkSW32Re">https://t.co/gqrkSW32Re</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> ths is my <a href="https://twitter.com/hashtag/Checkin?src=hash&amp;ref_src=twsrc%5Etfw">#Checkin</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/wfh?src=hash&amp;ref_src=twsrc%5Etfw">#wfh</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> i get it now <a href="https://twitter.com/MeliszaMcfierce?ref_src=twsrc%5Etfw">@MeliszaMcfierce</a> u r brilliant! `Dear_Robin_Obrien<br>You told me to study the <a href="https://twitter.com/hashtag/weather?src=hash&amp;ref_src=twsrc%5Etfw">#weather</a> on mars` <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/SFCLA?ref_src=twsrc%5Etfw">@sfcla</a> <a href="https://t.co/0j7KfICxLL">pic.twitter.com/0j7KfICxLL</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1800678630831559008?ref_src=twsrc%5Etfw">June 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-         </div>
-        <div class="tweet">
+   
+ <div class="tweet">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/relationshiptips?src=hash&amp;ref_src=twsrc%5Etfw">#relationshiptips</a> <a href="https://twitter.com/CareshaPlease?ref_src=twsrc%5Etfw">@CareshaPlease</a> i want all of you, thats natural, but Vanessa Walker is intimate and im ready to touch if she is interested <a href="https://twitter.com/hashtag/blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#blacktwitter</a> <a href="https://twitter.com/hashtag/777radio?src=hash&amp;ref_src=twsrc%5Etfw">#777radio</a> <a href="https://t.co/8qa26994gi">pic.twitter.com/8qa26994gi</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1723491903117922417?ref_src=twsrc%5Etfw">November 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-           </div>
+
 
 
 
@@ -2891,5 +2895,4 @@ title: HoleToAnotherUniVersE</p>
       <div></div>
       <div></div>
       <div></div>
-
-    </div>
+</div>
