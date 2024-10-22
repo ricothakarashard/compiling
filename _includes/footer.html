@@ -7,6 +7,21 @@
 </a>
     
   </div>
+
+
+
+  {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
+  <span class="page-item">{{ page }}</span>
+  {% elsif page == 1 %}
+  <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">{{ page }}</a>
+  {% else %}
+  <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-item">{{ page }}</a>
+  {% endif %} {% endfor %} {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
+  {% else %}
+  <span class="page-item">&raquo;</span>
+  {% endif %}
+
    <div class="css3badge">   <a href="https://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="https://jigsaw.w3.org/css-validator/images/vcss"
