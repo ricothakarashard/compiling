@@ -1,2 +1,83 @@
 [text](2024-11-06-1sthalf2024blackground.md)
+[Rashard iman kelly nasa jpl mro spaceforce juno iss](https://ricothaka.github.io/cv/)
 
+
+## resume Period Review
+I got super lax and personal after i realized i was being recognized outdoors so i let ppl get an iframe of a couple of video games. Alot of Jehovahs Witnesses were scared of me when they saw my entertainment but [Darkstalkers](https://darkstalkers.fandom.com/wiki/Darkstalkers_(series)) is just [Grimms FairyTales](https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales) and ppl say "Thats Demonized" and run inn terror, or buy your wife in sex slavery, it all just depends on how close they are to [Jehovah](https://www.jw.org/en/library/books/draw-close/). And over Covid Lockdown Normani had me making a lot
+# Current Status winter24jan30ish - old
+While coronavirus quarantine shut down Georgia's government a sex party started among millenials. There was a populaton within the cult known as Jehovahs witnesses that wated to leave thier spouses they committed to in the org. I am a father of one child i know for sure! And her mother wanted in on the sex party and abandoned me leaving me with the child. She is now 10years old and has been spotted in #SouthernCalifornia her name is coral. The Sexparty people systematically fiscally diabled me and i eventually lost my daughter, i dont know where she is. A artist from my old world in georgia "Glorilla" twitter feed showed her holding two guns, a pistl and an assault rifle. While i am in need im mostly sufering from exclusion because i lost my family. There were a couple women who tried to step in but they work for playboy magazine and got publically humiliated for wanting to start a family with an abandoned man. I have no income. I have been robbed #ransomware i am not mentally disabled. I can do pickup work for cash or join a team for a misson that is complimentary to the United States Space Program. I am on the Mars Mission. A unix administrator. If your family is kidnapped and there are no acces to communications resorces Social Engineering makes it nearly impossible to communictae to meet ones needs. There are rumors of sexual scandal at some of my prior employers that effect my ability to interact with the world to get my needs met. I was diagenosed with Bipolar and Schizophrenia but no one will talk to me abt how my wife's lover used radio for electronic harasment and she was two timing me with a lethal criminal in our area! I am innocent, honest and hardworking I have no way to contact people except through real life meetups coordinated by NasaJPL in Pasadena #Seeking_Paid_Employment 
+
+# WebDesign
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNRrEpK" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEpK">
+  PLAYLiST_ON_LOViNG_WHiLE_PHYSiCALLY_ALONE</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poYZXad" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/poYZXad">
+  MUSiCBLOGLAYOUT</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> 
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="rNRrEGv" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEGv">
+  PHOTOGRAPHERS2RESEARCH</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="rNRrEyd" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/rNRrEyd">
+  BLOG_LAYOUT##FROSTED_GLASS##THANKS_LEA!!!</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="NWJBZdR" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/NWJBZdR">
+  SELASSiE_HOUSE_ViDEO_PLAYER</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+Be sure to make it fullscreen! watch itbounce idk if its built into HTML5 or i made a lucky mistake but im working on repeating it - Thaka 
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="LYaBKWq" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/LYaBKWq">
+  ##4PANEL_SPREAD_SCREEN_STRETCH##PROD</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="poYZXpd" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/poYZXpd">
+  moonshineMakeeba</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="XWGBLYP" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/XWGBLYP">
+  Expanding Gallery View ( jus' flex it )##HTML_PORT##</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> 
+shes kidnapped, im conservative 
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="oNVMrqr" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/oNVMrqr">
+  NOODLEiNCiDENT CENTER_LAYOUT</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+## CssTypography
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="JjzBQrw" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/JjzBQrw">
+  CSS3 inset text-shadow</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+# Game of the day
+ill make a nice collection like [Internet Arcade](https://archive.org/details/internetarcadeturbo) 
+<iframe src="https://archive.org/embed/arcade_xmcota" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_nwarr" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/grimmsfairytales0000unse_y5s0" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
