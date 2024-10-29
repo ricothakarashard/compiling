@@ -93,10 +93,7 @@ Received: Nov. 29, 2006 8:55 AM
 The camera was pointing toward SATURN-RINGS, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System.
 ![SaturnRings](https://solarsystem.nasa.gov/images/casJPGFullS26/W00020096.jpg)
 
-{% include dear-coral-games.md %}
-{% include dearcoral-last-period.md %}
-{% include sega.md %}
-{% include webtools.md %}
+
 
 [T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)
 
