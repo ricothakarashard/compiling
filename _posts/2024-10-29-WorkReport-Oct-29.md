@@ -1,4 +1,11 @@
 ## WorkReport for NAsaJPL GADFCS DPSS
+
+
+# NASA LOGO COLOR MiS MATch
+
+[NASABrandGuidelines](https://www.nasa.gov/nasa-brand-center/brand-guidelines/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/zOpW3IXtbZ">https://t.co/zOpW3IXtbZ</a> hello <a href="https://twitter.com/hashtag/itsRashard?src=hash&amp;ref_src=twsrc%5Etfw">#itsRashard</a> from <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/hashtag/M_R_O?src=hash&amp;ref_src=twsrc%5Etfw">#M_R_O</a> <a href="https://twitter.com/NASAJuno?ref_src=twsrc%5Etfw">@NASAJuno</a> <a href="https://twitter.com/hashtag/EcostressTEAM?src=hash&amp;ref_src=twsrc%5Etfw">#EcostressTEAM</a>! <a href="https://twitter.com/ISS_Research?ref_src=twsrc%5Etfw">@ISS_Research</a> idk who to talk to but Im trying to do a new <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a> <a href="https://twitter.com/hashtag/template?src=hash&amp;ref_src=twsrc%5Etfw">#template</a> nasablue not matching da <a href="https://twitter.com/hashtag/Documentation?src=hash&amp;ref_src=twsrc%5Etfw">#Documentation</a> <a href="https://t.co/XxrrQQov7q">https://t.co/XxrrQQov7q</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/I8uvMz2k8Z">https://t.co/I8uvMz2k8Z</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://t.co/dd9733kEMs">pic.twitter.com/dd9733kEMs</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1851389481427120389?ref_src=twsrc%5Etfw">October 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 # Reported Hurrican Helene Damage to a Govermnet Facility 
 
 ![NOAA HELENE](https://pbs.twimg.com/media/Ga7LtnFacAApjvb?format=jpg&name=large)
