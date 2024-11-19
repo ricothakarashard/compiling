@@ -30,21 +30,6 @@ background-size: 30px 30px;
 
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
-
-}
 
 body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
@@ -95,7 +80,7 @@ p {
 p::first-letter {
   font-size: 1.2em;
   font-weight: bold;
-    color: cyan;
+    color: white;
 }
 p:first-of-type {
   animation-duration: 3s;
@@ -287,7 +272,7 @@ font-size: 3rem;
 h2 {
   background: transparent
     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 2rem;
+  font-size: 1.4rem;
   color: white;
 }
 
