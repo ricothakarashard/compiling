@@ -10,166 +10,22 @@
 
 
 
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-  display: block;
-}
-body {
-  line-height: 1;
-}
-ol,
-ul {
-  list-style: none;
-}
-blockquote,
-q {
-  quotes: none;
-}
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: "";
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-/* ~~~~~~~~~~~~~~~~~~~~~ h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 50px;
-  padding-left: 820px;
-} */
-
-* {
-  box-sizing: border-box;
-}
-
-
 html {
-font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
-font-size: 1rem;
+
 margin:0px;
 padding:0px;
 color: white;
 height: 100%;
 width: 100%;
 margin: 15px;
-background: 
-linear-gradient(45deg,
-  #08a0e9 25%,
-  dodgerblue 0,
-  dodgerblue 50%,
-  #08a0e9 0,
-  #08a0e9 75%,
-  dodgerblue 0), url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg) ;
-background-size: 80.4px 80.4px;
-font-family: "VT323", monospace;
-background-attachment: fixed;
-height: 100vh;
-width: 100vw;
+background : #0D0D0D;
+background-image :
+  linear-gradient(#262626 1px, transparent 0),
+  linear-gradient(90deg, #262626 1px, transparent 0);
+background-size: 30px 30px;
+  background-attachment: fixed;   
+    height: 100vh;
+    width: 100vw;
 
 }
 
@@ -193,7 +49,8 @@ body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
   */
   color: white;
-
+  font-family: "IBM Plex Sans","Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-size: 1rem;
 }
 
 p {
@@ -401,51 +258,40 @@ li:hover ul {
   float: right;
   flex-wrap: nowrap;
 }
-h1 {
-  font-size: 170%;
-  color: white;
-  /* background: linear-gradient(45deg, 
- #F2D338 25%, #262626 0, #262626 50%,
- #F2D338 0, #F2D338 75%, #262626 0);
-background-size: 80.4px 80.4px; */
-  font-family: "VT323", monospace;
 
-  background: linear-gradient(to top, transparent, #b1b1b1 100%),
-    #262626
-      repeating-linear-gradient(
-        45deg,
-        transparent,
-        transparent 35px,
-        rgba(255, 255, 255, 0.5) 35px,
-        rgba(255, 255, 255, 0.5) 70px
-      );
-  background-clip: padding-box;
-  border-left: 1px solid rgba(255, 255, 255, 0.3);
-  border-top: 1px solid rgba(255, 255, 255, 0.7);
-  box-shadow: 0px 1px 3px 1px #969494;
-  background-attachment: fixed;
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
+
+h1 {
+
+
+  display: block;
+  word-break: break-all;
+font-size: 3rem;
+  line-height: 1.7rem;
+  margin: auto;
+  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  
+  text-shadow:
+
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
+
+
+
 }
 
 h2 {
   background: transparent
     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 140%;
+  font-size: 2rem;
   color: white;
 }
 
 
-header h1:before {
-  content: "./BUBBLEGUMPOP";
-  font-size: 4rem;
-}
-
-header h2 {
-  content: "./BUBBLEGUMPOP_SARTU_LETS_GO ~>";
-  font-size: 1em;
-  font-weight: 300;
-  color: #fff;
-
-}
 /* Buttons
 
 
