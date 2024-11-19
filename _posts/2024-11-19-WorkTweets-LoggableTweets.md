@@ -1,5 +1,31 @@
 
+# Local Support
+@nasa-jpl you guys said if i see things offer a fix, @github had a container overflowe issue and i made a rec 
 
+```css
+  display: block;
+  word-break: break-all;
+font-size: 3rem;
+  line-height: 1.5;
+  margin: auto; 
+font-family: 'Fredoka One' ;
+  letter-spacing: 8px;
+```
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/XNtgLSMkLm">https://t.co/XNtgLSMkLm</a> <a href="https://twitter.com/GHSecurityLab?ref_src=twsrc%5Etfw">@GHSecurityLab</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <br>.neonOG {<br> display: block;<br> word-break: break-all;<br>font-size: 3rem;<br> line-height: 1.5;<br> margin: auto; <br>font-family: &#39;Fredoka One&#39; ;<br> letter-spacing: 8px;<br>} <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/hashtag/CSS3?src=hash&amp;ref_src=twsrc%5Etfw">#CSS3</a> <a href="https://twitter.com/mozhacks?ref_src=twsrc%5Etfw">@mozhacks</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://t.co/CAEnLarnrq">pic.twitter.com/CAEnLarnrq</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1858956432374460772?ref_src=twsrc%5Etfw">November 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+[RASHARD LEARNED - REPOBLOG for ...](https://ricothaka.github.io/rashardlearned/)
+[<img src="https://pbs.twimg.com/media/GcxfL3rbMAAh9IF?format=jpg&name=large" alt="rashardlearned" />](https://pbs.twimg.com/media/GcxfL3rbMAAh9IF?format=jpg&name=large)
+
+
+
+# JEhovhas Witness History
+I went to the 2009 International Convention of Jehovhas witnesses, and in this era i think they are traveling illegally it was supposed to be a two week stay and they started having sex with people 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/YIHCrV98BL">https://t.co/YIHCrV98BL</a> <a href="https://twitter.com/MalikaDudley?ref_src=twsrc%5Etfw">@MalikaDudley</a> <a href="https://twitter.com/KITV4?ref_src=twsrc%5Etfw">@KITV4</a> hi how are you my name is <a href="https://twitter.com/hashtag/rashardimankellyNASAJPLfireCO?src=hash&amp;ref_src=twsrc%5Etfw">#rashardimankellyNASAJPLfireCO</a> I came to <a href="https://twitter.com/hashtag/Hawaii?src=hash&amp;ref_src=twsrc%5Etfw">#Hawaii</a> with my wife of <a href="https://twitter.com/AlamedaCounty?ref_src=twsrc%5Etfw">@AlamedaCounty</a> who left me <a href="https://twitter.com/hashtag/Erika?src=hash&amp;ref_src=twsrc%5Etfw">#Erika</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> I was n <a href="https://twitter.com/hashtag/JWBigTiME?src=hash&amp;ref_src=twsrc%5Etfw">#JWBigTiME</a> an it fell apart <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/4rco7mNYGM">https://t.co/4rco7mNYGM</a> <a href="https://twitter.com/KarenBassLA?ref_src=twsrc%5Etfw">@KarenBassLA</a> <a href="https://twitter.com/KTLA?ref_src=twsrc%5Etfw">@KTLA</a> <a href="https://twitter.com/VP?ref_src=twsrc%5Etfw">@vp</a> <a href="https://t.co/aaWfcTQ0Ds">pic.twitter.com/aaWfcTQ0Ds</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1858962935844139033?ref_src=twsrc%5Etfw">November 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![me an save](https://pbs.twimg.com/media/GcxSxvqbcAQN31v?format=jpg&name=medium)
 
 # @nasa-jpl @nasa #G20 Support
 
@@ -35,30 +61,3 @@ its those ufo hearings! im afraid someone triggerhappy will knock out one of our
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/AUma6ev3wP">https://t.co/AUma6ev3wP</a> <a href="https://twitter.com/USDISA?ref_src=twsrc%5Etfw">@USDISA</a> <a href="https://twitter.com/SpotifyCares?ref_src=twsrc%5Etfw">@SpotifyCares</a> <a href="https://twitter.com/whatismyip?ref_src=twsrc%5Etfw">@whatismyip</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BLackgirlscode</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/hashtag/CROSSSiTESCRiPTiNGATTACK?src=hash&amp;ref_src=twsrc%5Etfw">#CROSSSiTESCRiPTiNGATTACK</a> <a href="https://twitter.com/GHSecurityLab?ref_src=twsrc%5Etfw">@GHSecurityLab</a> <a href="https://t.co/cUCAmchzjd">https://t.co/cUCAmchzjd</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/hashtag/iMONLiNE?src=hash&amp;ref_src=twsrc%5Etfw">#iMONLiNE</a> <a href="https://twitter.com/durant_library?ref_src=twsrc%5Etfw">@durant_library</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> something was inetween me and <a href="https://twitter.com/Spotify?ref_src=twsrc%5Etfw">@spotify</a> <a href="https://twitter.com/LAPublicLibrary?ref_src=twsrc%5Etfw">@LAPublicLibrary</a> <a href="https://twitter.com/TedRossLA?ref_src=twsrc%5Etfw">@TedRossLA</a> <a href="https://twitter.com/hashtag/UpStreamError?src=hash&amp;ref_src=twsrc%5Etfw">#UpStreamError</a> <a href="https://t.co/MDNfQzdk1u">pic.twitter.com/MDNfQzdk1u</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1858632190621614194?ref_src=twsrc%5Etfw">November 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# Local Support
-@nasa-jpl you guys said if i see things offer a fix, @github had a container overflowe issue and i made a rec 
-
-```css
-  display: block;
-  word-break: break-all;
-font-size: 3rem;
-  line-height: 1.5;
-  margin: auto; 
-font-family: 'Fredoka One' ;
-  letter-spacing: 8px;
-```
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/XNtgLSMkLm">https://t.co/XNtgLSMkLm</a> <a href="https://twitter.com/GHSecurityLab?ref_src=twsrc%5Etfw">@GHSecurityLab</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <br>.neonOG {<br> display: block;<br> word-break: break-all;<br>font-size: 3rem;<br> line-height: 1.5;<br> margin: auto; <br>font-family: &#39;Fredoka One&#39; ;<br> letter-spacing: 8px;<br>} <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/hashtag/CSS3?src=hash&amp;ref_src=twsrc%5Etfw">#CSS3</a> <a href="https://twitter.com/mozhacks?ref_src=twsrc%5Etfw">@mozhacks</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://t.co/CAEnLarnrq">pic.twitter.com/CAEnLarnrq</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1858956432374460772?ref_src=twsrc%5Etfw">November 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-[RASHARD LEARNED - REPOBLOG for ...](https://ricothaka.github.io/rashardlearned/)
-[<img src="https://pbs.twimg.com/media/GcxfL3rbMAAh9IF?format=jpg&name=large" alt="rashardlearned" />](https://pbs.twimg.com/media/GcxfL3rbMAAh9IF?format=jpg&name=large)
-
-
-
-# JEhovhas Witness History
-I went to the 2009 International Convention of Jehovhas witnesses, and in this era i think they are traveling illegally it was supposed to be a two week stay and they started having sex with people 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/YIHCrV98BL">https://t.co/YIHCrV98BL</a> <a href="https://twitter.com/MalikaDudley?ref_src=twsrc%5Etfw">@MalikaDudley</a> <a href="https://twitter.com/KITV4?ref_src=twsrc%5Etfw">@KITV4</a> hi how are you my name is <a href="https://twitter.com/hashtag/rashardimankellyNASAJPLfireCO?src=hash&amp;ref_src=twsrc%5Etfw">#rashardimankellyNASAJPLfireCO</a> I came to <a href="https://twitter.com/hashtag/Hawaii?src=hash&amp;ref_src=twsrc%5Etfw">#Hawaii</a> with my wife of <a href="https://twitter.com/AlamedaCounty?ref_src=twsrc%5Etfw">@AlamedaCounty</a> who left me <a href="https://twitter.com/hashtag/Erika?src=hash&amp;ref_src=twsrc%5Etfw">#Erika</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> I was n <a href="https://twitter.com/hashtag/JWBigTiME?src=hash&amp;ref_src=twsrc%5Etfw">#JWBigTiME</a> an it fell apart <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/4rco7mNYGM">https://t.co/4rco7mNYGM</a> <a href="https://twitter.com/KarenBassLA?ref_src=twsrc%5Etfw">@KarenBassLA</a> <a href="https://twitter.com/KTLA?ref_src=twsrc%5Etfw">@KTLA</a> <a href="https://twitter.com/VP?ref_src=twsrc%5Etfw">@vp</a> <a href="https://t.co/aaWfcTQ0Ds">pic.twitter.com/aaWfcTQ0Ds</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1858962935844139033?ref_src=twsrc%5Etfw">November 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-![me an save](https://pbs.twimg.com/media/GcxSxvqbcAQN31v?format=jpg&name=medium)
