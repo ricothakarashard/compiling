@@ -51,7 +51,7 @@ p {
   border-left: 1px solid darkgrey;
     column-count: auto;
   column-fill: balance-all;
-  word-break: break-all;
+  word-break: break-word;
 }
 
 @keyframes slidein {
@@ -102,7 +102,7 @@ p:first-of-type {
 
   margin: 0 auto;
   width: 55vw;
-  height: 99vh;
+  height: 100vh;
   margin: auto;
   
 
@@ -476,8 +476,8 @@ a:visited a:hover {
 }
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #37F230;
+  text-shadow: rgba(194,255,191,1) 0px 0px 34px;
 
   transition: all .2s ease-out;
 
