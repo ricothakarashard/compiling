@@ -254,7 +254,7 @@ h1 {
 font-size: 3rem;
   line-height: 1.7rem;
   margin: auto;
-  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
   
   text-shadow:
 
@@ -270,11 +270,13 @@ font-size: 3rem;
 }
 
 h2 {
-  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
     background: transparent
     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 5rem;
+  font-size: 4rem;
   color: #fff;
+  word-break: break-all; 
+  width: 100%;
   
   text-shadow:
 
