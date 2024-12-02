@@ -2,6 +2,12 @@
 # M.I.A. & The Partysquad - Double Bubble Trouble official music video Uncensored
 its safe for work @whitehouse, she a lady... @blackgirlscode im getting used to this short burst commuicating, please let normani know im stable since i saw her an i know life will get more comfortable post `/yo͞oˈjeniks/` [FactSHeet - Eugenics and Scientific Racism - NiH](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v9AKH16--VE?si=Nh5xTmP5KxqhzNxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+[<img src="https://www.genome.gov/themes/custom/nhgri/assets/global/logo-dark-nhgri.webp" alt="National Human Genome Research Institute" />](https://www.genome.gov/themes/custom/nhgri/assets/global/logo-dark-nhgri.webp)
+[NHGRI Vision and Mission](https://www.genome.gov/about-nhgri/NHGRI-Vision-and-Mission)
+
 @nasa @nasa-jpl @whitehouse @deptofdefense
 
 # re:Layoffs 
@@ -96,3 +102,7 @@ Chloe sun
 
 # Sonic Weapon producing EarPain
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/weather?src=hash&amp;ref_src=twsrc%5Etfw">#weather</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> I cannot hear out of my <a href="https://twitter.com/hashtag/LeftEar?src=hash&amp;ref_src=twsrc%5Etfw">#LeftEar</a> someone has some sort of <a href="https://twitter.com/hashtag/soundWeaponoperating?src=hash&amp;ref_src=twsrc%5Etfw">#soundWeaponoperating</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/SonicWeapons?src=hash&amp;ref_src=twsrc%5Etfw">#SonicWeapons</a> <a href="https://twitter.com/SenBillNelson?ref_src=twsrc%5Etfw">@SenBillNelson</a> I&#39;m confident that was <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> that stopped by <a href="https://twitter.com/LAPublicLibrary?ref_src=twsrc%5Etfw">@LAPublicLibrary</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/DeKalbCountyME?ref_src=twsrc%5Etfw">@DeKalbCountyME</a> who is <a href="https://twitter.com/sartu365?ref_src=twsrc%5Etfw">@sartu365</a> now I cant hear! <a href="https://twitter.com/hashtag/havanasyndrome?src=hash&amp;ref_src=twsrc%5Etfw">#havanasyndrome</a> <a href="https://t.co/1lcVJE55UC">pic.twitter.com/1lcVJE55UC</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1861476709079667027?ref_src=twsrc%5Etfw">November 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+# M.I.A. - Bring The Noize (Matangi Street Edition)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvUVxYndYuU?si=thzDc29O6JkQ9FpF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
