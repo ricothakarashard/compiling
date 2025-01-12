@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
 @import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
+
 @import "default_colors";
 @font-face {
   font-family: Cluster;
@@ -35,7 +35,7 @@ body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
   */
   color: white;
-  font-family: "IBM Plex Sans","Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: "IBM Plex Sans", -apple-system, Ubuntu, "Ariel Black", Verdana;
   font-size: 1rem;
 }
 
@@ -251,10 +251,10 @@ h1 {
 
   display: block;
   word-break: break-all;
-font-size: 3rem;
-  line-height: 1.7rem;
+font-size: 2.5rem;
+  line-height: 1.2rem;
   margin: auto;
-  font-family: 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: 'Jersey 15', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
   
   text-shadow:
 
@@ -270,10 +270,10 @@ font-size: 3rem;
 }
 
 h2 {
-  font-family: 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: 'Jersey 15', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
     background: transparent
     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 4rem;
+  font-size: 2rem;
   color: #fff;
   word-break: break-all; 
   width: 100%;
@@ -288,30 +288,7 @@ h2 {
 }
 
 
-/* Buttons
 
-
-
-p {
-  margin: 0px;
-  padding: 10px;
-  display: block;
-  color: white;
-  font-size: 1.5rem;
-  background: rgb(2, 0, 36);
-  background: linear-gradient(90deg, rgba(2, 0, 36, 0.5220417633410672) 0%, rgba(0, 212, 255, 0.17865429234338748) 100%);
-  letter-spacing: 1px;
-  padding: 10px 10px 10px 15px;
-  font-weight: 500;
-  font-style: normal;
-  font-variant: normal;
-  text-transform: none;
-
-}
-
-
-
-*/
 
 dt {
   font-style: italic;
@@ -388,23 +365,7 @@ hr {
 
 }
 
-/*
-#content {
 
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em; 	
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
-
-  }
-*/
 
 img {
   display: block;
