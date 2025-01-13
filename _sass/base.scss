@@ -54,6 +54,15 @@ body {
 
 }
 
+#MAiN {
+
+  margin: 0 auto;
+  width: 85vw;
+  height: 100vh;
+  margin: auto;
+  
+
+}
 
 
 img {
@@ -122,32 +131,8 @@ p:first-of-type {
   padding-left: 3px;
 }
 
-#MAiN {
 
-  margin: 0 auto;
-  width: 80vw;
-  height: 100vh;
-  margin: auto;
-  
 
-}
-
-/*
-#heading {
-
-  flex-wrap:nowrap;
-    width:50vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-   position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-
-} */
 
 .logo {
   float: left;
