@@ -39,6 +39,30 @@ body {
   font-size: 1rem;
 }
 
+
+#footer {
+  flex-wrap: nowrap;
+  bottom: 0;
+  position: fixed;
+  display: inline;
+  grid-template-rows: auto auto auto;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  position: fixed;
+  width: 85vw;
+
+}
+
+
+
+img {
+  display: block;
+  max-height: 100%;
+  width: 100%;
+}
+
+
 p {
   text-shadow: whitesmoke 0px 0px 2px;
   display: block;
@@ -101,7 +125,7 @@ p:first-of-type {
 #MAiN {
 
   margin: 0 auto;
-  width: 55vw;
+  width: 80vw;
   height: 100vh;
   margin: auto;
   
@@ -351,27 +375,6 @@ hr {
   color: #b5e853;
 }
 
-#footer {
-  flex-wrap: nowrap;
-  bottom: 0;
-  position: fixed;
-  display: inline;
-  grid-template-rows: auto auto auto;
-  background-color: black;
-  color: white;
-  padding: 5px;
-  position: fixed;
-  width: 55vw;
-
-}
-
-
-
-img {
-  display: block;
-  max-height: 100%;
-  width: 100%;
-}
 
 iframe {
   width: 100%;
