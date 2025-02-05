@@ -1,8 +1,14 @@
 
-NASA Commercial Satellite Data Acquisition Program Vendor Focus- Maxar
+# NASA Commercial Satellite Data Acquisition Program Vendor Focus- [MAXAR](https://www.maxar.com/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJKM8Dzg-go?si=aqwdl1pjbxkyfQUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Batman. The. Movie. 1966.i
+
+<style> img[alt*="NORMANI at BUBBLETE"] {max-width: 150px;}</style>
+
+
+
+
 ![BATMAN 1966 is me an NORMANI at BUBBLETEA WILL](https://upload.wikimedia.org/wikipedia/en/6/69/Batman1966Poster.jpg)
 its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) so i hope u can find the play button! - [Rashard/Thaka](https://thakarashard.github.io/) 
 [ARCHiVE](https://archive.org/details/batman.-the.-movie.-1966.i) [IMDB](https://www.imdb.com/title/tt0060153/?ref_=tt_mv_close) [HTML5ViDEO - CLOUDFLARE - whitepaper?](https://www.cloudflare.com/learning/video/how-html5-video-works/) [HTML5 Video Tags: The Ultimate Guide [2024]](https://bitmovin.com/blog/html5-video-tag-guide/)
