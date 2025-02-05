@@ -24,8 +24,9 @@ This map shows the years that terrestrial water storage hit a 22-year minimum (i
 [Who Framed Roger Rabbit](https://youtu.be/gewXbR3Ryic?si=CCO4TAqSEzJ2jVip) [RelatedTweet](https://x.com/RicoThaka/status/1886916427174830489)
 ![WhoFramedRogerRabbit](https://pbs.twimg.com/media/Gi-sMROaAAAJrqO?format=jpg&name=large)
 
-
+[Voyager](https://x.com/RicoThaka/status/1885848024544616669)
 ![AfricaAirTemp](https://pbs.twimg.com/media/GivcsCbbkAAUZFt?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1885844554550759469)
 ![airtemp](https://pbs.twimg.com/media/GivcQVXa0AA1Oks?format=jpg&name=medium)
 ![Desnity](https://pbs.twimg.com/media/GiAIPUzbcAAIDVJ?format=jpg&name=medium)
 ![Density](https://pbs.twimg.com/media/GiAIPUia4AAklmM?format=jpg&name=large)
