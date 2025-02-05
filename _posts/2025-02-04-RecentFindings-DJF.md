@@ -6,7 +6,7 @@
 ![YEAR_FRESHWATER](https://grace.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnJkbUZ5YVdGdWRITXZaWFUyZEhwd2EyNTJPR2RvY0RWamRUbGxaM2hxTUcxaE1YVTNNeTg0T1dGbE9HSTVZMkV4WTJOaVlqQmlPR016TnpJd056QXdZbU00WmpJd1l6RXlOalV3TXpKaVlqaGlabVJoTmpNME5qTTFNemRqT0RoaFlURmlZVFU0QmpvR1JWUTZFR1JwYzNCdmMybDBhVzl1U1NKVGFXNXNhVzVsT3lCbWFXeGxibUZ0WlQwaVpuSmxjMmgzWVhSbGNsOWtjbTl3TG5kbFluQWlPeUJtYVd4bGJtRnRaU285VlZSR0xUZ25KMlp5WlhOb2QyRjBaWEpmWkhKdmNDNTNaV0p3QmpzR1ZEb1JZMjl1ZEdWdWRGOTBlWEJsU1NJUGFXMWhaMlV2ZDJWaWNBWTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9rZXkifX0=--943605d26cf25154a876093acfd78824075ed588/freshwater_drop.webp)
 This map shows the years that terrestrial water storage hit a 22-year minimum (i.e., the land was driest) at each location, based on data from the GRACE and GRACE/FO satellites. A significantly large portion of the global land surface reached this minimum in the nine years since 2015, which happen to be the nine warmest years in the modern temperature record. Image by [NASA Earth Observatory](https://earthobservatory.nasa.gov/about)/[Wanmei Liang](https://www.linkedin.com/in/mapsbyw) with data courtesy of [Mary Michael O’Neill](https://science.gsfc.nasa.gov/earth/bio/mary.m.oneill) [Google's ‘A Passage of Water' Brings NASA's Water Data to Life](https://grace.jpl.nasa.gov/news/153/googles-a-passage-of-water-brings-nasas-water-data-to-life/) [#ECOSTRESS-GRACEtwt](https://x.com/RicoThaka/status/1886928414659240253)
 
-
+[LANDSLiDE](https://x.com/RicoThaka/status/1885859077340979253)
 # Los Angeles Fire Data
 [Palisades](https://x.com/RicoThaka/status/1881101168954532251)
 # GRACE and GRACE-FO track California's land water changes
