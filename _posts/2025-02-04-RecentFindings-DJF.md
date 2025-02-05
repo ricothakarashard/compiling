@@ -8,7 +8,7 @@ NASA's Earth Science Division (ESD) established the Commercial Satellite Data Ac
 
 # Batman. The. Movie. 1966.i
 
-<style> img[alt*="NORMANI at BUBBLETE"] {max-width: 150px;}</style>
+<style> img[alt*="NORMANI at BUBBLETE"] {max-width: 150px; float:left;}</style>
 
 
 
@@ -27,26 +27,6 @@ its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/El
   video.
 </video>
 [<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
-
-
-<picture>
-  <source
-    srcset="landscape.png"
-    media="(min-width: 1000px)"
-    width="1000"
-    height="400" />
-  <source
-    srcset="square.png"
-    media="(min-width: 800px)"
-    width="800"
-    height="800" />
-
-  <img
-    src="fallback.png"
-    alt="Image used when the browser does not support the sources"
-
-/>
-</picture>
 
 # NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 ![YEAR_FRESHWATER](https://grace.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnJkbUZ5YVdGdWRITXZaWFUyZEhwd2EyNTJPR2RvY0RWamRUbGxaM2hxTUcxaE1YVTNNeTg0T1dGbE9HSTVZMkV4WTJOaVlqQmlPR016TnpJd056QXdZbU00WmpJd1l6RXlOalV3TXpKaVlqaGlabVJoTmpNME5qTTFNemRqT0RoaFlURmlZVFU0QmpvR1JWUTZFR1JwYzNCdmMybDBhVzl1U1NKVGFXNXNhVzVsT3lCbWFXeGxibUZ0WlQwaVpuSmxjMmgzWVhSbGNsOWtjbTl3TG5kbFluQWlPeUJtYVd4bGJtRnRaU285VlZSR0xUZ25KMlp5WlhOb2QyRjBaWEpmWkhKdmNDNTNaV0p3QmpzR1ZEb1JZMjl1ZEdWdWRGOTBlWEJsU1NJUGFXMWhaMlV2ZDJWaWNBWTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9rZXkifX0=--943605d26cf25154a876093acfd78824075ed588/freshwater_drop.webp)
