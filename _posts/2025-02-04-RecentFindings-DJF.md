@@ -19,12 +19,14 @@ This map shows the years that terrestrial water storage hit a 22-year minimum (i
 
 ![GRACE](https://grace.jpl.nasa.gov/assets/logo-grace-white@2x.png)
 
-
+![AirTemp](https://pbs.twimg.com/media/GivcQVcbAAA3Yx0?format=jpg&name=medium)
 
 [Who Framed Roger Rabbit](https://youtu.be/gewXbR3Ryic?si=CCO4TAqSEzJ2jVip) [RelatedTweet](https://x.com/RicoThaka/status/1886916427174830489)
 ![WhoFramedRogerRabbit](https://pbs.twimg.com/media/Gi-sMROaAAAJrqO?format=jpg&name=large)
 
 
+![AfricaAirTemp](https://pbs.twimg.com/media/GivcsCbbkAAUZFt?format=jpg&name=large)
+![airtemp](https://pbs.twimg.com/media/GivcQVXa0AA1Oks?format=jpg&name=medium)
 ![Desnity](https://pbs.twimg.com/media/GiAIPUzbcAAIDVJ?format=jpg&name=medium)
 ![Density](https://pbs.twimg.com/media/GiAIPUia4AAklmM?format=jpg&name=large)
 
@@ -54,7 +56,7 @@ If this is what i have been given an the job to contact municipalities to report
 ### NASA_FiRMS GOOGLEEarTHiMPORTS
 ![FirmsOnGoogleEarth](https://pbs.twimg.com/media/GhW32XfbsAAZ-9D?format=jpg&name=large)
 [RELATED](https://x.com/RicoThaka/status/1879611057741988004)
-![NASA_iD_RASHARDKELLY](https://pbs.twimg.com/media/GilGN9PawAA18B7?format=jpg&name=large)
+![NASA_iD_RASHARDKELLY](https://pbs.twimg.com/media/GilGN9PawAA18B7?format=jpg&name=large) [VENuS](https://x.com/RicoThaka/status/1885838779140964600) [RadarVenus](https://x.com/RicoThaka/status/1885839269778145702)
 
 ![EARTH_AEROSOL_DENSiTY](https://pbs.twimg.com/media/GiAIPVKa8AAwznC?format=jpg&name=large)
 ![PLOT AEROSOL](https://pbs.twimg.com/media/GiAIPUzbcAAIDVJ?format=jpg&name=medium)
