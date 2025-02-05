@@ -1,6 +1,42 @@
 
+NASA Commercial Satellite Data Acquisition Program Vendor Focus- Maxar
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJKM8Dzg-go?si=aqwdl1pjbxkyfQUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Batman. The. Movie. 1966.i
+![BATMAN 1966 is me an NORMANI at BUBBLETEA WILL](https://upload.wikimedia.org/wikipedia/en/6/69/Batman1966Poster.jpg)
+its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) so i hope u can find the play button! - [Rashard/Thaka](https://thakarashard.github.io/) 
+[ARCHiVE](https://archive.org/details/batman.-the.-movie.-1966.i) [IMDB](https://www.imdb.com/title/tt0060153/?ref_=tt_mv_close) [HTML5ViDEO - CLOUDFLARE - whitepaper?](https://www.cloudflare.com/learning/video/how-html5-video-works/) [HTML5 Video Tags: The Ultimate Guide [2024]](https://bitmovin.com/blog/html5-video-tag-guide/)
+
+>Batman (also known as Batman: The Movie) is a 1966 American superhero film directed by Leslie H. Martinson. Based on the television series, and the first full-length theatrical adaptation of the DC Comics character of the same name, the film stars Adam West as Batman and Burt Ward as Robin. The film hit theaters two months after the last episode of the first season of the television series. [WiKiPEDiA - BATMAN66](https://en.wikipedia.org/wiki/Batman_(1966_film)) [ArtDecoBatman 1943 Serial](https://archive.org/details/batman-1943-episode-01)
 
 
+<video controls preload="none"  poster="https://images.sbs.com.au/dims4/default/49ccab4/2147483647/strip/true/crop/1440x810+0+165/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fguide%2Fpublic%2Fpodcast_images%2Fcatwoman_batman_college.jpg&imwidth=960">
+<source src="https://ia803406.us.archive.org/32/items/batman.-the.-movie.-1966.i/Batman.The.Movie.1966.i.mp4" type="video/mp4" />
+  Download the
+  <a href="https://ia803406.us.archive.org/32/items/batman.-the.-movie.-1966.i/Batman.The.Movie.1966.i.mp4">MP4</a>
+  video.
+</video>
+[<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
+
+
+<picture>
+  <source
+    srcset="landscape.png"
+    media="(min-width: 1000px)"
+    width="1000"
+    height="400" />
+  <source
+    srcset="square.png"
+    media="(min-width: 800px)"
+    width="800"
+    height="800" />
+
+  <img
+    src="fallback.png"
+    alt="Image used when the browser does not support the sources"
+
+/>
+</picture>
 
 # NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 ![YEAR_FRESHWATER](https://grace.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnJkbUZ5YVdGdWRITXZaWFUyZEhwd2EyNTJPR2RvY0RWamRUbGxaM2hxTUcxaE1YVTNNeTg0T1dGbE9HSTVZMkV4WTJOaVlqQmlPR016TnpJd056QXdZbU00WmpJd1l6RXlOalV3TXpKaVlqaGlabVJoTmpNME5qTTFNemRqT0RoaFlURmlZVFU0QmpvR1JWUTZFR1JwYzNCdmMybDBhVzl1U1NKVGFXNXNhVzVsT3lCbWFXeGxibUZ0WlQwaVpuSmxjMmgzWVhSbGNsOWtjbTl3TG5kbFluQWlPeUJtYVd4bGJtRnRaU285VlZSR0xUZ25KMlp5WlhOb2QyRjBaWEpmWkhKdmNDNTNaV0p3QmpzR1ZEb1JZMjl1ZEdWdWRGOTBlWEJsU1NJUGFXMWhaMlV2ZDJWaWNBWTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9rZXkifX0=--943605d26cf25154a876093acfd78824075ed588/freshwater_drop.webp)
@@ -9,8 +45,15 @@ This map shows the years that terrestrial water storage hit a 22-year minimum (i
 [LANDSLiDE](https://x.com/RicoThaka/status/1885859077340979253)
 # Los Angeles Fire Data
 [Palisades](https://x.com/RicoThaka/status/1881101168954532251)
+
+
 # GRACE and GRACE-FO track California's land water changes
-<iframe src="https://grace.jpl.nasa.gov/embed/42/" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_2160p.mp4" type="video/mp4" />
+  Download the
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_2160p.mp4">MP4</a>
+  video.
+</video>
 
 ## NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
