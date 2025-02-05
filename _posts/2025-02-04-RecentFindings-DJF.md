@@ -8,7 +8,7 @@ This map shows the years that terrestrial water storage hit a 22-year minimum (i
 
 
 # Los Angeles Fire Data
-
+[Palisades](https://x.com/RicoThaka/status/1881101168954532251)
 # GRACE and GRACE-FO track California's land water changes
 <iframe src="https://grace.jpl.nasa.gov/embed/42/" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
