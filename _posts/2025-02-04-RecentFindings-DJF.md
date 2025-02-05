@@ -1,5 +1,6 @@
 
 # NASA Commercial Satellite Data Acquisition Program Vendor Focus- [MAXAR](https://www.maxar.com/)
+NASA's Earth Science Division (ESD) established the Commercial Satellite Data Acquisition (CSDA) program to explore the potential of commercial satellite data in advancing the agency's Earth science research and application objectives
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJKM8Dzg-go?si=aqwdl1pjbxkyfQUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Batman. The. Movie. 1966.i
