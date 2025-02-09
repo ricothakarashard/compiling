@@ -1,5 +1,5 @@
 
-
+![v](https://pbs.twimg.com/media/GjYRAeSa4AAHyxm?format=jpg&name=900x900)
 # LA_RiVER
 Here is an archive an i dont have time to embed and rotate them. here are tweets 
 [Los Angeles Groundwater Replenishment Project](https://vimeo.com/1022645053) ~> [RelatedTweet](https://x.com/RicoThaka/status/1888738097933975996) [NASAJPL_RiVERUPDATE](https://x.com/RicoThaka/status/1888729717618213080) [VisibleEarth - twt](https://x.com/RicoThaka/status/1888729717618213080) [LA_AQUEDuCT](https://x.com/RicoThaka/status/1888727819729154097) [PalisadesVimeo](https://x.com/RicoThaka/status/1888731989332959234) [FireFuel](https://x.com/RicoThaka/status/1888716228816162902)
