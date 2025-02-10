@@ -3,7 +3,8 @@
 # LA_RiVER
 [Here is an archive](https://archive.org/details/vid-20250209-120745) an i dont have time to embed and rotate them. here are tweets 
 [Los Angeles Groundwater Replenishment Project](https://vimeo.com/1022645053) ~> [RelatedTweet](https://x.com/RicoThaka/status/1888738097933975996) [NASAJPL_RiVERUPDATE](https://x.com/RicoThaka/status/1888729717618213080) [VisibleEarth - twt](https://x.com/RicoThaka/status/1888729717618213080) [LA_AQUEDuCT](https://x.com/RicoThaka/status/1888727819729154097) [PalisadesVimeo](https://x.com/RicoThaka/status/1888731989332959234) [FireFuel](https://x.com/RicoThaka/status/1888716228816162902)
-<iframe src="https://archive.org/embed/vid-20250209-120745" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+Fuel for California Fires [NEWON-VISIBLEEARTH](https://visibleearth.nasa.gov/images/153896/fuel-for-california-fires) #news
+<iframe  src="https://archive.org/embed/vid-20250209-120745" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 ![la](https://pbs.twimg.com/media/GjYlKXTakAAdwXv?format=jpg&name=large)
@@ -11,8 +12,8 @@
 
 <h3> Exoplanet Catalog</h3>
        
-  <video controls preload="none" controls autoplay>
- src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4" poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
+  <video controls preload="none"  autoplay poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
+ src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4"
   
     Sorry, your browser doesn't support embedded videos, but don't worry, you can
     <a href="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4">download it</a>
