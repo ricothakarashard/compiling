@@ -4,6 +4,13 @@
     {% endif %}
 {% endfor %}
 
+
+
+
+https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/{{ site.baseurl }}{{ image.path }}
+
+https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ site.baseurl }}{{ image.path }}
+
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
 
@@ -20,7 +27,7 @@
 
 
 
-    <img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
 
 # 
 
