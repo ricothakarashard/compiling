@@ -3,7 +3,13 @@
         <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
-
+<div >
+  {% for file in site.static_files %}
+      {% if file.path contains 'spacestation/loc' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Gallery Image">
+      {% endif %}
+  {% endfor %}
+</div>
 
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
