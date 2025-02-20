@@ -4,36 +4,23 @@
     {% endif %}
 {% endfor %}
 
-https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg
-
-
-
-
-https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg
-
-
-https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/{{ site.baseurl }}{{ image.path }}
-
-https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ site.baseurl }}{{ image.path }}
 
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
-https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg
-https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
           
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
 
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
 
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
 
 # 
 
