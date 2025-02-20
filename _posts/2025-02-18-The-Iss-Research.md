@@ -1,10 +1,15 @@
 {% for image in site.static_files %}
     {% if image.path contains 'spacestation/loc' %}
-        <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
 
+https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg
 
+
+
+
+https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg
 
 
 https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/{{ site.baseurl }}{{ image.path }}
@@ -13,7 +18,8 @@ https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ site.b
 
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
-
+https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg
+https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg
 
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
           
