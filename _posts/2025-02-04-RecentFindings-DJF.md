@@ -24,6 +24,8 @@
 # LA_RiVER
 
 [Map of dams an alge concentrations](https://x.com/RicoThaka/status/1893426556543877371)
+<iframe src="https://worldview.earthdata.nasa.gov/?v=-270,-230.34375,270,230.34375&l=Reference_Labels_15m(hidden),Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,OCI_PACE_Chlorophyll_a,OCI_PACE_True_Color&lg=true&t=2025-02-21-T00%3A00%3A00Z&em=true" role="application" sandbox="allow-modals allow-scripts allow-same-origin allow-forms allow-popups" width="100%" height="100%" allow="fullscreen; autoplay;" loading="lazy"></iframe>
+
 ![HollyWoodLakes](https://pbs.twimg.com/media/GkgaZotXsAAmwsi?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1893792974921670798)
 ![LA_AQUiFERS](https://pbs.twimg.com/media/GkgdaWwWUAAT5x3?format=jpg&name=large) [WaterToolTweets](https://x.com/RicoThaka/status/1893796278041026905)
 [Here is an archive](https://archive.org/details/vid-20250209-120745) an i dont have time to embed and rotate them. here are tweets 
