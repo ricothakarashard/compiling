@@ -1,4 +1,12 @@
 
+
+
+![nm+cl](https://pbs.twimg.com/media/GkbswYtaYAA5IsW?format=jpg&name=large)
+[NickiMinaj u ok?](https://x.com/RicoThaka/status/1893461189620826170)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1N1RwMOcjks?si=BdxjSCj2dlKVselW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ![v](https://pbs.twimg.com/media/GjYRAeSa4AAHyxm?format=jpg&name=900x900)
 # LA_RiVER
 
@@ -8,7 +16,10 @@
 [Here is an archive](https://archive.org/details/vid-20250209-120745) an i dont have time to embed and rotate them. here are tweets 
 [Los Angeles Groundwater Replenishment Project](https://vimeo.com/1022645053) ~> [RelatedTweet](https://x.com/RicoThaka/status/1888738097933975996) [NASAJPL_RiVERUPDATE](https://x.com/RicoThaka/status/1888729717618213080) [VisibleEarth - twt](https://x.com/RicoThaka/status/1888729717618213080) [LA_AQUEDuCT](https://x.com/RicoThaka/status/1888727819729154097) [PalisadesVimeo](https://x.com/RicoThaka/status/1888731989332959234) [FireFuel](https://x.com/RicoThaka/status/1888716228816162902)
 Fuel for California Fires [NEWON-VISIBLEEARTH](https://visibleearth.nasa.gov/images/153896/fuel-for-california-fires) #news
-![PooChiEtoDaFlooRUP](https://x.com/RicoThaka/status/1893792974921670798)
+![PooChiEtoDaFlooRUP](https://x.com/RicoThaka/status/1893792974921670798) + [STARBLADE ALPHA](https://x.com/RicoThaka/status/1893539940891341147)
+[Archive - JiGGAHBOOCarToonS](https://x.com/RicoThaka/status/1893645892701630467) 
+![jiggabooCartoons](https://pbs.twimg.com/media/GkeU5PFW8AAX5p5?format=jpg&name=medium)
+![BlackCarbon - Aerosol](https://pbs.twimg.com/media/GkgUw-8W4AA9R9j?format=jpg&name=large) [LA_HOMELESSUPDATE](https://x.com/RicoThaka/status/1893548807347925214) [ORlando](https://x.com/RicoThaka/status/1893546129859518693)
 <iframe  src="https://archive.org/embed/vid-20250209-120745" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
