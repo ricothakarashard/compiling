@@ -4,13 +4,26 @@
 ![nm+cl](https://pbs.twimg.com/media/GkbswYtaYAA5IsW?format=jpg&name=large)
 [NickiMinaj u ok?](https://x.com/RicoThaka/status/1893461189620826170)
 
+
+
+### @hot1079atl
+ this shit got flavah!! [SomeoneBrokeMyCart](https://x.com/RicoThaka/status/1893398889136271482) @blackgirlscode 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1N1RwMOcjks?si=BdxjSCj2dlKVselW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[RelatedTweet](https://x.com/RicoThaka/status/1893460651558723596)
+
+
+
+
+# [EcoStress DataUpdate](https://x.com/RicoThaka/status/1893454797858050098) [RelatedTweet](https://x.com/RicoThaka/status/1893453710568648891) [Elon Musk Calls For SpaceStationDeorbiting](https://x.com/ABC/status/1893441128776581220) [2cents](https://x.com/RicoThaka/status/1893452333113319826)
+![ecoStress](https://pbs.twimg.com/media/Gkbm_y1boAACZfw?format=jpg&name=large)
+![ECOSTRESS @usgs](https://pbs.twimg.com/media/Gkbl3sfWkAUC3Xz?format=jpg&name=large)
+![ECoSTRESS](https://pbs.twimg.com/media/GkbkxS4XUAECq2M?format=jpg&name=large)
 
 ![v](https://pbs.twimg.com/media/GjYRAeSa4AAHyxm?format=jpg&name=900x900)
 # LA_RiVER
 
-
+[Map of dams an alge concentrations](https://x.com/RicoThaka/status/1893426556543877371)
 ![HollyWoodLakes](https://pbs.twimg.com/media/GkgaZotXsAAmwsi?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1893792974921670798)
 ![LA_AQUiFERS](https://pbs.twimg.com/media/GkgdaWwWUAAT5x3?format=jpg&name=large) [WaterToolTweets](https://x.com/RicoThaka/status/1893796278041026905)
 [Here is an archive](https://archive.org/details/vid-20250209-120745) an i dont have time to embed and rotate them. here are tweets 
@@ -22,14 +35,17 @@ Fuel for California Fires [NEWON-VISIBLEEARTH](https://visibleearth.nasa.gov/ima
 ![BlackCarbon - Aerosol](https://pbs.twimg.com/media/GkgUw-8W4AA9R9j?format=jpg&name=large) [LA_HOMELESSUPDATE](https://x.com/RicoThaka/status/1893548807347925214) [ORlando](https://x.com/RicoThaka/status/1893546129859518693)
 <iframe  src="https://archive.org/embed/vid-20250209-120745" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
+![M20_EMBED](https://pbs.twimg.com/media/Gkbn0XCagAAcNA1?format=jpg&name=large) [@nasa solarsystem embed](https://x.com/RicoThaka/status/1893455751965966610)
 ![la](https://pbs.twimg.com/media/GjYlKXTakAAdwXv?format=jpg&name=large)
 
 
 <h3> Exoplanet Catalog</h3>
        
-  <video controls preload="none"  autoplay poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
- src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4"
+<video controls preload="none"  autoplay poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
+ 
+  
+   
+    src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4"
   
     Sorry, your browser doesn't support embedded videos, but don't worry, you can
     <a href="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4">download it</a>
