@@ -1,20 +1,6 @@
 
 
 
-![nm+cl](https://pbs.twimg.com/media/GkbswYtaYAA5IsW?format=jpg&name=large)
-[NickiMinaj u ok?](https://x.com/RicoThaka/status/1893461189620826170)
-
-
-
-### @hot1079atl
- this shit got flavah!! [SomeoneBrokeMyCart](https://x.com/RicoThaka/status/1893398889136271482) @blackgirlscode 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1N1RwMOcjks?si=BdxjSCj2dlKVselW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[RelatedTweet](https://x.com/RicoThaka/status/1893460651558723596)
-
-
-
-
 # [EcoStress DataUpdate](https://x.com/RicoThaka/status/1893454797858050098) [RelatedTweet](https://x.com/RicoThaka/status/1893453710568648891) [Elon Musk Calls For SpaceStationDeorbiting](https://x.com/ABC/status/1893441128776581220) [2cents](https://x.com/RicoThaka/status/1893452333113319826)
 ![ecoStress](https://pbs.twimg.com/media/Gkbm_y1boAACZfw?format=jpg&name=large)
 ![ECOSTRESS @usgs](https://pbs.twimg.com/media/Gkbl3sfWkAUC3Xz?format=jpg&name=large)
@@ -31,7 +17,26 @@
 [Here is an archive](https://archive.org/details/vid-20250209-120745) an i dont have time to embed and rotate them. here are tweets 
 [Los Angeles Groundwater Replenishment Project](https://vimeo.com/1022645053) ~> [RelatedTweet](https://x.com/RicoThaka/status/1888738097933975996) [NASAJPL_RiVERUPDATE](https://x.com/RicoThaka/status/1888729717618213080) [VisibleEarth - twt](https://x.com/RicoThaka/status/1888729717618213080) [LA_AQUEDuCT](https://x.com/RicoThaka/status/1888727819729154097) [PalisadesVimeo](https://x.com/RicoThaka/status/1888731989332959234) [FireFuel](https://x.com/RicoThaka/status/1888716228816162902)
 Fuel for California Fires [NEWON-VISIBLEEARTH](https://visibleearth.nasa.gov/images/153896/fuel-for-california-fires) #news
-![PooChiEtoDaFlooRUP](https://x.com/RicoThaka/status/1893792974921670798) + [STARBLADE ALPHA](https://x.com/RicoThaka/status/1893539940891341147)
+[PooChiEtoDaFlooRUP](https://x.com/RicoThaka/status/1893792974921670798) + [STARBLADE ALPHA](https://x.com/RicoThaka/status/1893539940891341147) 
+
+
+
+
+![nm+cl](https://pbs.twimg.com/media/GkbswYtaYAA5IsW?format=jpg&name=large)
+[NickiMinaj u ok?](https://x.com/RicoThaka/status/1893461189620826170)
+
+
+
+### @hot1079atl
+ this shit got flavah!! [SomeoneBrokeMyCart](https://x.com/RicoThaka/status/1893398889136271482) @blackgirlscode 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1N1RwMOcjks?si=BdxjSCj2dlKVselW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[RelatedTweet](https://x.com/RicoThaka/status/1893460651558723596)
+
+
+
+
+
 [Archive - JiGGAHBOOCarToonS](https://x.com/RicoThaka/status/1893645892701630467) 
 ![jiggabooCartoons](https://pbs.twimg.com/media/GkeU5PFW8AAX5p5?format=jpg&name=medium)
 ![BlackCarbon - Aerosol](https://pbs.twimg.com/media/GkgUw-8W4AA9R9j?format=jpg&name=large) [LA_HOMELESSUPDATE](https://x.com/RicoThaka/status/1893548807347925214) [ORlando](https://x.com/RicoThaka/status/1893546129859518693)
