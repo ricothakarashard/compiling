@@ -1,6 +1,18 @@
 
 
+[Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
 
+## Groundwater Declines in the U.S. Southwest
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
+## cellular magic mirror
+![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
+
+![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
+![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
+![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
 
 
 ![v](https://pbs.twimg.com/media/GjYRAeSa4AAHyxm?format=jpg&name=900x900)
