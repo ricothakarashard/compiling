@@ -3,7 +3,7 @@
 
 ### Space Operations 
 #### Mission Directorate
-The Space Operations Mission Directorate maintains a continuous human presence in space for the benefit of people on Earth. 
+The Space Operations Mission Directorate maintains a continuous human presence in space for the benefit of people on Earth. [READMORE](https://www.nasa.gov/reference/space-operations-mission-directorate/)
 
 ![Org_CHART](https://www.nasa.gov/wp-content/uploads/2023/06/somd-org-chart-2025.png)
 [RelatedTweet](https://x.com/genejm29/status/1783503580504195441)
