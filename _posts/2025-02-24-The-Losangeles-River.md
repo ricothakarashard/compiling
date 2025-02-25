@@ -30,7 +30,7 @@
 <iframe src="https://archive.org/embed/losangelesenormo0000weav" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Related info+tools
-
+[Global Ecosystem Dynamics Investigation (GEDI)](https://gedi.umd.edu/)
 # KML Tutorial
 <iframe src="https://archive.org/embed/screen-recording-2025-01-22-3.01.40-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
