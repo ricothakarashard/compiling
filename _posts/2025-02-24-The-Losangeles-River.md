@@ -25,6 +25,9 @@
   video.
 </video>
 
+# Rashards Notes
+[TheEnourmousVilliage](https://x.com/RicoThaka/status/1888338137296105533)
+<iframe src="https://archive.org/embed/losangelesenormo0000weav" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Related info+tools
 
