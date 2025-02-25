@@ -28,7 +28,7 @@
 
 [NASA ARSET: Overview of Drought Monitoring Data and Tools using Earth Observations, Part 1/4](https://www.youtube.com/watch?v=5WZf1bBAqzg) [AiRSAR ](https://airsar.jpl.nasa.gov/documents/engineering/specs/airsar_ref.html)
 
-
+![CALiFORNiA_RAiNFALL](https://ia803401.us.archive.org/0/items/dr_4-mean-monthly-rainfall-april-photo-lith-by-hoen--co-baltimore-md-3478007/3478007.jpg)
 
 ### I Dream of Jeannie (unaired pilot)
 <iframe src="https://archive.org/embed/01theladyinthebottleunairedpilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
