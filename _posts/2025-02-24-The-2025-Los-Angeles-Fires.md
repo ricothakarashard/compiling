@@ -6,4 +6,6 @@
 ![JPL_EVACUATiON](https://pbs.twimg.com/media/GhSTNU5bsAAlbSd?format=png&name=small)
 [Rashards Fire Report from the wildFire era 2025](https://x.com/RicoThaka/status/1881776470907076747)
 ![RASHARD](https://pbs.twimg.com/media/GhmX2EaaQAA7sTN?format=jpg&name=large)
-![LAtimes](https://pbs.twimg.com/media/GhSTKXibYAA0Wz3?format=png&name=4096x4096)
+![LAtimes](https://pbs.twimg.com/media/GhSTKXibYAA0Wz3?format=png&name=4096x4096) [Related](https://x.com/RicoThaka/status/1879288922599231571) [MEETiNG](https://x.com/RicoThaka/status/1879252141736702153)
+
+![NOAA](https://pbs.twimg.com/media/GhRxnXkbEAAWXiS?format=jpg&name=large)
