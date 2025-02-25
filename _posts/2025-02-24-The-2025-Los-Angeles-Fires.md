@@ -1,2 +1,8 @@
+![TheWave JAn92025](https://pbs.twimg.com/media/GhSTJruasAAKFpe?format=png&name=4096x4096)
+
 ![EATONCANYON](https://pbs.twimg.com/media/GhR9ohKbgAAWX35?format=jpg&name=large)
 [Global Human Built-up And Settlement Extent (HBASE) Dataset From Landsat](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-ulandsat-hbase-v1-1.00)
+[EatonCanyonFam](https://x.com/OC_Scanner/status/1878298424417689892)
+![JPL_EVACUATiON](https://pbs.twimg.com/media/GhSTNU5bsAAlbSd?format=png&name=small)
+[Rashards Fire Report from the wildFire era 2025](https://x.com/RicoThaka/status/1881776470907076747)
+![RASHARD](https://pbs.twimg.com/media/GhmX2EaaQAA7sTN?format=jpg&name=large)
