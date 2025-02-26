@@ -22,7 +22,8 @@ California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid t
 ![LAMBO-BARBZ](https://pbs.twimg.com/media/GhHpnQoXgAAXH2y?format=jpg&name=large)
 
 [OrginTwT](https://x.com/PribicevicU/status/1878539382887428451)
-
+![RED_EYE_MOB](https://pbs.twimg.com/media/GhCM6FcbgAAEZrw?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1878152678494089716)
 ![wfh](https://pbs.twimg.com/media/GgvLKJobsAAnos3?format=jpg&name=large)
 [Palisade](https://x.com/RicoThaka/status/1876817416170127696)
 [NASASPORT](https://x.com/RicoThaka/status/1876831935328100762)
