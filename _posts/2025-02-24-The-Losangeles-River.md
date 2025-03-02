@@ -1,4 +1,23 @@
 # The Los Angeles River
+
+# Terminator 2
+
+<video controls preload="none" width="100%" height="auto" poster="https://www.aestheticwalldecor.com/cdn/shop/files/terminator-2-judgement-day-classic-movie-poster-aesthetic-wall-decor.jpg?v=1692555485">
+
+<source src="https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/terminator-2-judgment-day-vhs-mkv-encode/Terminator%202_%20Judgment%20Day%20%28VHS%29%20MKV%20Encode.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+
+[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [GraffitiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
+
+
 [Lariver Rushing Water - TedSoquiPhoto on X](https://x.com/TedSoquiPhoto/status/1754581432390103442) [SAMEDAY ricothaka on X](https://x.com/RicoThaka/status/1887200958259540046) [ALinE](https://x.com/RicoThaka/status/1888729717618213080) [RiverRacing](https://x.com/alisonmartino/status/1427476270468591616)
 
 [Map of dams an alge concentrations](https://x.com/RicoThaka/status/1893426556543877371)
