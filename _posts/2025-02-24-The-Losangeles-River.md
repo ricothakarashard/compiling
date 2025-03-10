@@ -10,7 +10,7 @@ EXECUTIVE BRANCH
  
 Sec. 230. Mayor.
  
-   Except as otherwise provided in the Charter, management authority shall be vested in the Mayor who shall be the Chief Executive Officer of the City and shall devote his or her entire time to the duties of the office. The Mayor shall execute and uphold all laws and ordinances of the [City](https://x.com/RicoThaka/status/1729344344862446037).
+   Except as otherwise provided in the Charter, management authority shall be vested in the Mayor who shall be the Chief Executive Officer of the City and shall devote his or her entire time to the duties of the office. The Mayor shall execute and uphold all laws and [ordinances](https://x.com/RicoThaka/status/1729339063151611927) of the [City](https://x.com/RicoThaka/status/1729344344862446037).
 [Los Angeles Charter and Administrative Code
 Sec. 230. Mayor.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-576) [OFFICIAL CITY OF LOS ANGELES CHARTER ™ - Current through legislation effective December 31, 2024](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-2)
 
