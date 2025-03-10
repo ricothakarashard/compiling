@@ -1,12 +1,14 @@
 # The Los Angeles River
 
 
-[LibraryBurned](https://x.com/RicoThaka/status/1778179396362510848) On April 29, 1986, the Central Library in downtown Los Angeles caught fire and burned. Nobody died, though 50 firefighters were injured and more than a million books were damaged. - [NYtiMES](https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html#:~:text=On%20April%2029%2C%201986%2C%20the,a%20million%20books%20were%20damaged.) [Central Library Account](https://www.lapl.org/collections-resources/blogs/lapl/april-29-marks-30th-anniversary-1986-fire) [Library Fire 1986 - CityClerk ACcout](https://youtu.be/kDXqhQMczjM?si=77WAs9FSHce601lE) [KTTV 70: Remembering the 1986 L.A. Central Library fire - Fox11LA](https://youtu.be/zcJ0mogemM4?si=gxbS5p8MpZqR7w4z) [Local Account - olegkagan.com](https://olegkagan.com/the-library-fire/) [The Legacy of the Central Library Fire - LAPL_BLOG](https://www.lapl.org/collections-resources/blogs/lapl/legacy-central-library-fire) 
-
+[LibraryBurned](https://x.com/RicoThaka/status/1778179396362510848) On April 29, 1986, the Central Library in downtown Los Angeles caught fire and burned. Nobody died, though 50 firefighters were injured and more than a million books were damaged. - [NYtiMES](https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html#:~:text=On%20April%2029%2C%201986%2C%20the,a%20million%20books%20were%20damaged.) [Central Library Account](https://www.lapl.org/collections-resources/blogs/lapl/april-29-marks-30th-anniversary-1986-fire) [Library Fire 1986 - CityClerk ACcout](https://youtu.be/kDXqhQMczjM?si=77WAs9FSHce601lE) [KTTV 70: Remembering the 1986 L.A. Central Library fire - Fox11LA](https://youtu.be/zcJ0mogemM4?si=gxbS5p8MpZqR7w4z) [Local Account - olegkagan.com](https://olegkagan.com/the-library-fire/) [The Legacy of the Central Library Fire - LAPL_BLOG](https://www.lapl.org/collections-resources/blogs/lapl/legacy-central-library-fire) [List of destroyed libraries](https://en.wikipedia.org/wiki/List_of_destroyed_libraries)
+[gOVERNOR hISTORY aRNOLD sWA..](https://x.com/RicoThaka/status/1890165656286564829)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kDXqhQMczjM?si=CI7zAA6APBANNPCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Central Library](https://www.lapl.org/sites/default/files/blogs/2022-08/fire-1.jpg)
+[One CartSquareDeep water level](https://x.com/RicoThaka/status/1856404376484786631)
 
+![ALGEonWillow](https://pbs.twimg.com/media/GcNFg_CasAEYAPT?format=jpg&name=large)
 
 <img src="https://www.graffiti.org/la/saberlariver.jpg">
 
@@ -23,6 +25,7 @@
         video.
 </video>
 
+![ALGEDAM](https://pbs.twimg.com/media/GkbA_QGWgAAblwP?format=jpg&name=large)
 [Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01)
 The Global Reservoir and Dam Database, Version 1, Revision 01 (v1.01) contains 6,862 records of reservoirs and their associated dams with a cumulative storage capacity of 6,197 cubic km. The dams were geospatially referenced and assigned to polygons depicting reservoir outlines at high spatial resolution. Dams have multiple attributes, such as name of the dam and impounded river, primary use, nearest city, height, area and volume of reservoir[READMORE - earthdata.nasa.gov](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01) 
 >Lehner, B., et al. Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01. 1.01, Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC), 2011, doi:10.7927/H4N877QK.
