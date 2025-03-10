@@ -1,11 +1,12 @@
 # The Los Angeles River
 
 
-[LibraryBurned](https://x.com/RicoThaka/status/1778179396362510848) On April 29, 1986, the Central Library in downtown Los Angeles caught fire and burned. Nobody died, though 50 firefighters were injured and more than a million books were damaged. - [NYtiMES](https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html#:~:text=On%20April%2029%2C%201986%2C%20the,a%20million%20books%20were%20damaged.) [Central Library Account](https://www.lapl.org/collections-resources/blogs/lapl/april-29-marks-30th-anniversary-1986-fire) [Library Fire 1986 - CityClerk ACcout](https://youtu.be/kDXqhQMczjM?si=77WAs9FSHce601lE)
+[LibraryBurned](https://x.com/RicoThaka/status/1778179396362510848) On April 29, 1986, the Central Library in downtown Los Angeles caught fire and burned. Nobody died, though 50 firefighters were injured and more than a million books were damaged. - [NYtiMES](https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html#:~:text=On%20April%2029%2C%201986%2C%20the,a%20million%20books%20were%20damaged.) [Central Library Account](https://www.lapl.org/collections-resources/blogs/lapl/april-29-marks-30th-anniversary-1986-fire) [Library Fire 1986 - CityClerk ACcout](https://youtu.be/kDXqhQMczjM?si=77WAs9FSHce601lE) [KTTV 70: Remembering the 1986 L.A. Central Library fire - Fox11LA](https://youtu.be/zcJ0mogemM4?si=gxbS5p8MpZqR7w4z) [Local Account - olegkagan.com](https://olegkagan.com/the-library-fire/) [The Legacy of the Central Library Fire - LAPL_BLOG](https://www.lapl.org/collections-resources/blogs/lapl/legacy-central-library-fire) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kDXqhQMczjM?si=CI7zAA6APBANNPCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Central Library](https://www.lapl.org/sites/default/files/blogs/2022-08/fire-1.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDXqhQMczjM?si=CI7zAA6APBANNPCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="https://www.graffiti.org/la/saberlariver.jpg">
 
