@@ -21,7 +21,7 @@
 The Global Reservoir and Dam Database, Version 1, Revision 01 (v1.01) contains 6,862 records of reservoirs and their associated dams with a cumulative storage capacity of 6,197 cubic km. The dams were geospatially referenced and assigned to polygons depicting reservoir outlines at high spatial resolution. Dams have multiple attributes, such as name of the dam and impounded river, primary use, nearest city, height, area and volume of reservoir[READMORE - earthdata.nasa.gov](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01) 
 >Lehner, B., et al. Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01. 1.01, Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC), 2011, doi:10.7927/H4N877QK.
 [RelatedTweet](https://x.com/RicoThaka/status/1729335852780982281) [DamDataBase](https://x.com/RicoThaka/status/1887227109619474919) [map](https://x.com/RicoThaka/status/1899203398421106793)
-![GRanD_DataBase](https://pbs.twimg.com/media/GltTNjObgAABBOO?format=jpg&name=large) [LA_RiVer - Feb6](https://x.com/RicoThaka/status/1887555011766267926)
+![GRanD_DataBase](https://pbs.twimg.com/media/GltTNjObgAABBOO?format=jpg&name=large) [LA_RiVer - Feb6](https://x.com/RicoThaka/status/1887555011766267926) [RiverCheck - Feb16](https://x.com/RicoThaka/status/1891260433983586708)
 
 [T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [GraffitiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
 
