@@ -1,7 +1,9 @@
 # The Los Angeles River
 
 
+[LibraryBurned](https://x.com/RicoThaka/status/1778179396362510848) On April 29, 1986, the Central Library in downtown Los Angeles caught fire and burned. Nobody died, though 50 firefighters were injured and more than a million books were damaged. - [NYtiMES](https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html#:~:text=On%20April%2029%2C%201986%2C%20the,a%20million%20books%20were%20damaged.)
 
+![Central Library](https://www.lapl.org/sites/default/files/blogs/2022-08/fire-1.jpg)
 <img src="https://www.graffiti.org/la/saberlariver.jpg">
 
 # Terminator 2
