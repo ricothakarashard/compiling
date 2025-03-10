@@ -1,3 +1,6 @@
+![SPACE_STATiON](https://pbs.twimg.com/media/Gh8g6a5acAARjuN?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1882259882864422949) [Real Time Augmented Reality Space Station](https://eyes.nasa.gov/apps/orrery/#/sc_iss?time=2025-01-23T02:47:23.405+00:00)
+
 ### Space Operations 
 #### Mission Directorate
 The Space Operations Mission Directorate maintains a continuous human presence in space for the benefit of people on Earth. [READMORE](https://www.nasa.gov/reference/space-operations-mission-directorate/)
@@ -9,7 +12,7 @@ The Space Operations Mission Directorate maintains a continuous human presence i
 
 
 ![Org_CHART](https://www.nasa.gov/wp-content/uploads/2023/06/somd-org-chart-2025.png)
-[RelatedTweet](https://x.com/genejm29/status/1783503580504195441)
+[RelatedTweet](https://x.com/genejm29/status/1783503580504195441) [DamagedTesla](https://x.com/RicoThaka/status/1899223787499077809)
 # [EcoStress DataUpdate](https://x.com/RicoThaka/status/1893454797858050098) [RelatedTweet](https://x.com/RicoThaka/status/1893453710568648891) [Elon Musk Calls For SpaceStationDeorbiting](https://x.com/ABC/status/1893441128776581220) [2cents](https://x.com/RicoThaka/status/1893452333113319826)
 ![ecoStress](https://pbs.twimg.com/media/Gkbm_y1boAACZfw?format=jpg&name=large)
 ![ECOSTRESS @usgs](https://pbs.twimg.com/media/Gkbl3sfWkAUC3Xz?format=jpg&name=large)
