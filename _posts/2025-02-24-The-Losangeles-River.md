@@ -1,11 +1,8 @@
 # The Los Angeles River
 
+### Los Angeles Charter and Administrative Code
 
-## CA
-Los Angeles
-Los Angeles Charter and Administrative Code
-
-EXECUTIVE BRANCH
+[EXECUTIVE BRANCH](https://www.house.gov/the-house-explained/branches-of-government#:~:text=U.S.%20Senate-,Executive,of%20the%20President%20(White%20House))
  
  
 [Sec.](https://x.com/RicoThaka/status/1894472734186639522) 230. Mayor.
@@ -13,6 +10,11 @@ EXECUTIVE BRANCH
    Except as otherwise provided in the Charter, management authority shall be vested in the Mayor who shall be the Chief Executive Officer of the City and shall devote his or her entire time to the duties of the office. The Mayor shall execute and uphold all laws and [ordinances](https://x.com/RicoThaka/status/1729339063151611927) of the [City](https://x.com/RicoThaka/status/1729344344862446037).
 [Los Angeles Charter and Administrative Code
 Sec. 230. Mayor.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-576) [OFFICIAL CITY OF LOS ANGELES CHARTER ™ - Current through legislation effective December 31, 2024](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-2)
+
+![LARiVEr1956](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg/1726px-Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg)
+Walkway and steel arch girder of the original 6th Street Viaduct over the Los Angeles River, 1956...as used as a guide in the latest update it connects the [Arts District in Downtown Los Angeles](https://artsdistrictla.org/) with the [Boyle Heights](https://boyleheightsbeat.com/) neighborhood. [Wiki](https://en.wikipedia.org/wiki/Sixth_Street_Viaduct)
+![6th STREETBRidGE](https://tile.loc.gov/storage-services/service/pnp/vrg/12700/12735v.jpg)
+
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> I&#39;m going to look for <a href="https://twitter.com/hashtag/MAMEROMS?src=hash&amp;ref_src=twsrc%5Etfw">#MAMEROMS</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://t.co/mtq3s1IAK8">https://t.co/mtq3s1IAK8</a> <a href="https://twitter.com/LACityClerk?ref_src=twsrc%5Etfw">@LACityClerk</a> . <a href="https://t.co/gebTyczuf0">pic.twitter.com/gebTyczuf0</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1899219796174176276?ref_src=twsrc%5Etfw">March 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
