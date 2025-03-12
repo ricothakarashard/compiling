@@ -10,7 +10,8 @@ I left a tweet on your housefloor meeting
 ![USGS and WorldView](https://pbs.twimg.com/media/Gl4LZQBbYAIVttZ?format=jpg&name=large)
 
 # A Small Blue-Gray Marble
-A digital camera on the Blue Ghost lander looked back at Earth and captured this ethereal image. - [NASA VisiBLEEARTH](https://visibleearth.nasa.gov/images/154032/a-small-blue-gray-marble/154036w)
+A digital camera on the Blue Ghost lander looked back at Earth and captured this ethereal image. - [NASA VisiBLEEARTH](https://visibleearth.nasa.gov/images/154032/a-small-blue-gray-marble/154036w) [FireFlyAeroSpace](https://fireflyspace.com/)
+
 ![LEXi](https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154032/blueghost_lexi.jpg)
 
 
