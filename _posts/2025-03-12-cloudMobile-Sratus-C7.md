@@ -5,7 +5,7 @@ I got really comfortable coding and making github commits to the point i never f
 
 # Dam Map!
 ![dams](https://pbs.twimg.com/media/GkgxSfGXoAAYrvH?format=jpg&name=medium)
-[RelatedTwwt](https://x.com/RicoThaka/status/1893818593155899603)
+[RelatedTwwt](https://x.com/RicoThaka/status/1893818593155899603) [Tutorial](https://x.com/RicoThaka/status/1893815046280483296)
 
 # LOTR [BeggingNormaniForAttention](https://x.com/RicoThaka/status/1890687645832880283)
 ![LOTR](https://pbs.twimg.com/media/Gj0SBm6XAAAV3b8?format=jpg&name=medium)
