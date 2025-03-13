@@ -44,13 +44,19 @@ Was really pleasant and calming bc it ran perfectly and i had my old library in 
 sf3 was arcade perfect, wish i could t
 ![SF3](https://pbs.twimg.com/media/GjoO78_bIAEuLrf?format=jpg&name=medium)
 ![SF3](https://pbs.twimg.com/media/GjoOlvDaAAAlrZ9?format=jpg&name=medium)
+[I made it to gill](https://x.com/RicoThaka/status/1895906194914754914)
+
+![Best BaseBallGameEver](https://pbs.twimg.com/media/GlY5CatbwAME9ww?format=jpg&name=medium)
+
+![ff7](https://pbs.twimg.com/media/GlfGFeDXYAAGx_w?format=jpg&name=medium)
+![@blackgirlscode](https://pbs.twimg.com/media/GlfGFeIWcAACRVM?format=jpg&name=medium)
 
 # Reading Documentation
 I did not do much Technical reading from howto books, but work pdfs man that was amazing as well! @nasa @nasa-jpl @blackgirlscode 
 ![emit](https://pbs.twimg.com/media/GjrzfihXoAAvbFF?format=jpg&name=medium)
 
 ![Spyro](https://pbs.twimg.com/media/Gjv9CFUWwAAMMC3?format=jpg&name=medium)
-[RelatedTwt NORMANi](https://x.com/RicoThaka/status/1890382692534960378)
+[RelatedTwt NORMANi](https://x.com/RicoThaka/status/1890382692534960378) [STARWARS Episode1 Racer](https://x.com/RicoThaka/status/1895970633714164133)
 
 # GLSL SHaders
 ![KoM](https://pbs.twimg.com/media/GkWBUDuXYAAQuPB?format=png&name=medium)
