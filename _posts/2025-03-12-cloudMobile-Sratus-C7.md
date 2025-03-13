@@ -29,8 +29,8 @@ I had a good time growing with Windows95 on [#RetroArch](https://docs.libretro.c
 <iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![win95](https://pbs.twimg.com/media/GjUa2L-XEAE_lrB?format=jpg&name=medium)
-
-
+[Fonts](https://x.com/RicoThaka/status/1898447665660412043)
+![Fonts](https://pbs.twimg.com/media/Glijv9PaIAAEQUg?format=png&name=medium)
 [CommandLine](https://x.com/RicoThaka/status/1888467564734427417) [Solitare](https://x.com/RicoThaka/status/1889367293735698686)
 
 ![NFS DOS](https://pbs.twimg.com/media/GjI0n4FbEAAS9G7?format=jpg&name=medium)
@@ -44,8 +44,8 @@ Was really pleasant and calming bc it ran perfectly and i had my old library in 
 sf3 was arcade perfect, wish i could t
 ![SF3](https://pbs.twimg.com/media/GjoO78_bIAEuLrf?format=jpg&name=medium)
 ![SF3](https://pbs.twimg.com/media/GjoOlvDaAAAlrZ9?format=jpg&name=medium)
-[I made it to gill](https://x.com/RicoThaka/status/1895906194914754914)
-
+[I made it to gill](https://x.com/RicoThaka/status/1895906194914754914) [Related](https://x.com/RicoThaka/status/1898203718878720281)
+![Cap](https://pbs.twimg.com/media/GliuTfMbcAAVkdo?format=jpg&name=large) [RelatedTWT](https://x.com/RicoThaka/status/1898458965773816026)
 ![Best BaseBallGameEver](https://pbs.twimg.com/media/GlY5CatbwAME9ww?format=jpg&name=medium)
 
 ![ff7](https://pbs.twimg.com/media/GlfGFeDXYAAGx_w?format=jpg&name=medium)
