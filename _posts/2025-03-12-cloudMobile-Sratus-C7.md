@@ -11,9 +11,27 @@ I got really comfortable coding and making github commits to the point i never f
 <iframe src="https://archive.org/embed/arcade_ddtod" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-# NAsa FiRMS: FireSensingData
+# [NAsa FiRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-113.6,21.3,4.6z): FireSensingData
 [LosAngelesFires](https://nasawatch.com/fire-updates/jpl-fire-update-2/)
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/Gjg6caTW8AAM4BL?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/Gjg6cakWcAA-eGh?format=jpg&name=medium" />
 </div>
+
+# Windows 2/3.1/95/ 
+I had a good time growing with Windows95 on [#RetroArch](https://docs.libretro.com/) I played with fonts an learning how to actually use a handheld computer more capable than a [Newton](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
+
+<iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![win95](https://pbs.twimg.com/media/GjUa2L-XEAE_lrB?format=jpg&name=medium)
+
+
+[CommandLine](https://x.com/RicoThaka/status/1888467564734427417) [Solitare](https://x.com/RicoThaka/status/1889367293735698686)
+
+![NFS DOS](https://pbs.twimg.com/media/GjI0n4FbEAAS9G7?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1887629299274162266)
+![Keyboard](https://pbs.twimg.com/media/GjI0n3lbIAI4-tS?format=jpg&name=medium)
+
+# PlayStation 1995
+Was really pleasant and calming bc it ran perfectly and i had my old library in my pocket! That part was amazing!
+[WipeOut](https://x.com/RicoThaka/status/1889368173721559532)
