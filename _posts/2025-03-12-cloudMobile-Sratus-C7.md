@@ -2,6 +2,18 @@
 ### The Durant_Library garbagepail find
 I got really comfortable coding and making github commits to the point i never felt offline. A guy was wierdly waiting for the power outlet at Grand Molina park in downtown los angeles, and i really think he put me to sleep and stole it. I completed an episode of Johnny Quest and left satisfied as my phone hit 100%. Judging by his air he know ppl from magic at the very least bc he had very little respect asking if both outlets were being used. I woke up it was gonr, my backpack was stolen today. Im so confused in so many directions bc since the body is made up of mostly water its a big old magnet! So the object you carry hold magnitism like your own. ITs not as bad as losing my daughter, but i get the displacement when her mother started having sex with other men. We had trouble walking, its like the ground was moving at times, When this phone got stolen I experianced those feelings again so I know me an my child had a good charge. I miss her so much. Imma leave some #MemorialTweets It was a good phone 
 
-# LOTR
+# LOTR [BeggingNormaniForAttention](https://x.com/RicoThaka/status/1890687645832880283)
 ![LOTR](https://pbs.twimg.com/media/Gj0SBm6XAAAV3b8?format=jpg&name=medium)
 <iframe src="https://archive.org/embed/full-vhs-the-lord-of-the-rings-1978-thorn-emi-video-1981-vhs" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Dungeoons an Dragons by Capcom
+![Dnd](https://pbs.twimg.com/media/Gj0SBm7XEAACJ38?format=png&name=medium)
+<iframe src="https://archive.org/embed/arcade_ddtod" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# NAsa FiRMS: FireSensingData
+[LosAngelesFires](https://nasawatch.com/fire-updates/jpl-fire-update-2/)
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/Gjg6caTW8AAM4BL?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/Gjg6cakWcAA-eGh?format=jpg&name=medium" />
+</div>
