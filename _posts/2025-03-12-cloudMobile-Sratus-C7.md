@@ -43,3 +43,11 @@ sf3 was arcade perfect, wish i could t
 # Reading Documentation
 I did not do much Technical reading from howto books, but work pdfs man that was amazing as well! @nasa @nasa-jpl @blackgirlscode 
 ![emit](https://pbs.twimg.com/media/GjrzfihXoAAvbFF?format=jpg&name=medium)
+
+![Spyro](https://pbs.twimg.com/media/Gjv9CFUWwAAMMC3?format=jpg&name=medium)
+[RelatedTwt NORMANi](https://x.com/RicoThaka/status/1890382692534960378)
+
+# GLSL SHaders
+![KoM](https://pbs.twimg.com/media/GkWBUDuXYAAQuPB?format=png&name=medium)
+
+![termux](https://pbs.twimg.com/media/GkWBzuPaoAALlWS?format=jpg&name=medium)
