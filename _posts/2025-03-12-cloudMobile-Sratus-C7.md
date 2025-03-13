@@ -35,3 +35,11 @@ I had a good time growing with Windows95 on [#RetroArch](https://docs.libretro.c
 # PlayStation 1995
 Was really pleasant and calming bc it ran perfectly and i had my old library in my pocket! That part was amazing!
 [WipeOut](https://x.com/RicoThaka/status/1889368173721559532)
+![wipeout](https://pbs.twimg.com/media/GjiBUHpbkAA8xFe?format=jpg&name=medium)
+sf3 was arcade perfect, wish i could t
+![SF3](https://pbs.twimg.com/media/GjoO78_bIAEuLrf?format=jpg&name=medium)
+![SF3](https://pbs.twimg.com/media/GjoOlvDaAAAlrZ9?format=jpg&name=medium)
+
+# Reading Documentation
+I did not do much Technical reading from howto books, but work pdfs man that was amazing as well! @nasa @nasa-jpl @blackgirlscode 
+![emit](https://pbs.twimg.com/media/GjrzfihXoAAvbFF?format=jpg&name=medium)
