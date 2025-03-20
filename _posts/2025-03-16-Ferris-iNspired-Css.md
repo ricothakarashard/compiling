@@ -6,6 +6,7 @@ published: true
     body {
   color: white;
 	 background: url(https://i.imgur.com/yuaLdv6.gif) no-repeat center center fixed; 
+   background-attachment: fixed;
    line-height: 1.5;
    -webkit-background-size: cover;
   -moz-background-size: cover;
