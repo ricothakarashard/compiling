@@ -1,14 +1,11 @@
 # The Los Angeles River
+
+![Reading LA](https://pbs.twimg.com/media/GjS4_p4aQAAhgG-?format=jpg&name=large)
+[The Enourmous Villiage](https://x.com/RicoThaka/status/1888338137296105533)
+# Alge Report
+![Alge Willow Street](https://pbs.twimg.com/media/GcNFg_CasAEYAPT?format=jpg&name=large)
+[Related 11-12-2024](https://x.com/RicoThaka/status/1856404376484786631)
 # aviris [tweet](https://x.com/NASAEarthData/status/1757075886900117855)
-<div class="tupperware" markdown="1">
-
-[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
-[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
-[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
-[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
-[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
-
-</div>
 
 [Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271](https://www.loc.gov/resource/hhh.ca2896.photos?st=gallery)
 [![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
@@ -147,3 +144,13 @@ Fuel for California Fires [NEWON-VISIBLEEARTH](https://visibleearth.nasa.gov/ima
 
 ### I Dream of Jeannie (unaired pilot)
 <iframe src="https://archive.org/embed/01theladyinthebottleunairedpilot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<div class="tupperware" markdown="1">
+
+[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
+[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
+[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
+[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
+[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
+
+</div>
