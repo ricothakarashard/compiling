@@ -1,5 +1,17 @@
 # The Los Angeles River
 
+<div class="tupperware">
+
+
+</div>
+
+[Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271](https://www.loc.gov/resource/hhh.ca2896.photos?st=gallery)
+[![LA_RiVER 50](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04219v.jpg)
+[L.A. River, Los Angeles digital file from original on X](https://x.com/RicoThaka/status/1903132488647708766) [Los Angeles River Bridges,  Drawings from Survey HAER CA-271](https://x.com/RicoThaka/status/1903133037665341816)
+![RiverBridges](https://pbs.twimg.com/media/GmlJRq8aEAYn3P4?format=jpg&name=large)
+
+
+
 ### Los Angeles Charter and Administrative Code
 
 [EXECUTIVE BRANCH](https://www.house.gov/the-house-explained/branches-of-government#:~:text=U.S.%20Senate-,Executive,of%20the%20President%20(White%20House))
@@ -8,8 +20,9 @@
 [Sec.](https://x.com/RicoThaka/status/1894472734186639522) 230. Mayor.
  
    Except as otherwise provided in the Charter, management authority shall be vested in the Mayor who shall be the Chief Executive Officer of the City and shall devote his or her entire time to the duties of the office. The Mayor shall execute and uphold all laws and [ordinances](https://x.com/RicoThaka/status/1729339063151611927) of the [City](https://x.com/RicoThaka/status/1729344344862446037).
-[Los Angeles Charter and Administrative Code
-Sec. 230. Mayor.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-576) [OFFICIAL CITY OF LOS ANGELES CHARTER ™ - Current through legislation effective December 31, 2024](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-2)
+
+
+[Los Angeles Charter and Administrative Code Sec. 230. Mayor.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-576) [OFFICIAL CITY OF LOS ANGELES CHARTER ™ - Current through legislation effective December 31, 2024](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-2)
 
 ![LARiVEr1956](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg/1726px-Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg)
 Walkway and steel arch girder of the original 6th Street Viaduct over the Los Angeles River, 1956...as used as a guide in the latest update it connects the [Arts District in Downtown Los Angeles](https://artsdistrictla.org/) with the [Boyle Heights](https://boyleheightsbeat.com/) neighborhood. [Wiki](https://en.wikipedia.org/wiki/Sixth_Street_Viaduct)
