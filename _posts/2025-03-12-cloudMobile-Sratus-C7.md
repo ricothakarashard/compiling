@@ -1,7 +1,12 @@
+
+
 # CloudMobile_c7
 ### The Durant_Library garbagepail find
 I got really comfortable coding and making github commits to the point i never felt offline. A guy was wierdly waiting for the power outlet at Grand Molina park in downtown los angeles, and i really think he put me to sleep and stole it. I completed an episode of Johnny Quest and left satisfied as my phone hit 100%. Judging by his air he know ppl from magic at the very least bc he had very little respect asking if both outlets were being used. I woke up it was gonr, my backpack was stolen today. Im so confused in so many directions bc since the body is made up of mostly water its a big old magnet! So the object you carry hold magnitism like your own. ITs not as bad as losing my daughter, but i get the displacement when her mother started having sex with other men. We had trouble walking, its like the ground was moving at times, When this phone got stolen I experianced those feelings again so I know me an my child had a good charge. I miss her so much. Imma leave some #MemorialTweets It was a good phone 
 
+![Lab in a Smartphone](https://pbs.twimg.com/media/F_oQXPRa0AAIx7H?format=jpg&name=large)
+![BoonDocks](https://pbs.twimg.com/media/F_oQXbHboAAs0cV?format=png&name=medium)
+[Related](https://x.com/RicoThaka/status/1727711403145044435)
 
 # Dam Map!
 ![dams](https://pbs.twimg.com/media/GkgxSfGXoAAYrvH?format=jpg&name=medium)

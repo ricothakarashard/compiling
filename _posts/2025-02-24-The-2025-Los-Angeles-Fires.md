@@ -1,5 +1,18 @@
 
+![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
+[DroughtMonitor](https://x.com/RicoThaka/status/1884060535731486825) [Current_MAP](https://droughtmonitor.unl.edu/CurrentMap.aspx)
 
+![DNS FORWARDiNG Between FiRMS and @google earth broken from LAPL @nasa-jpl @nasa](https://pbs.twimg.com/media/GmlWQ3naEAMkbz5?format=jpg&name=large)
+[DNS FORWARDiNG Between FiRMS and @google earth broken from LAPL @nasa-jpl @nasa](https://x.com/RicoThaka/status/1903147179067515303)
+
+![CURRENT_FiRE @cityoflosangeles @nasa-jpl](https://pbs.twimg.com/media/GmlYGUraEAEqqUG?format=jpg&name=large)
+
+[TroubleShooting Smoke Mar21 @cityoflosangles](https://x.com/RicoThaka/status/1903149248595759418) [GoogleEarth](https://x.com/RicoThaka/status/1903147179067515303) [I smelled the smoke first getting off the metro at CivicCenter](https://x.com/RicoThaka/status/1903149248595759418)
+
+
+![firms la](https://pbs.twimg.com/media/GmlX5A4bkAA6_gd?format=jpg&name=large)
+
+![WorldView_LA](https://pbs.twimg.com/media/Gjn6wpkasAAH_xD?format=jpg&name=large)
 
 ![ECOSTRESS_LOGO](https://ecostress.jpl.nasa.gov/logo.png)
  NASA's Jet Propulsion Laboratory manages the [EcoStress](https://x.com/RicoThaka/status/1882206772829766132) mission for the Earth Science Division in the Science MissionDirectorate at NASA Headquarters in Washington
@@ -7,6 +20,19 @@
 [JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
 
 [Kenneth Fire](https://x.com/thakasartu/status/1878981359525650928)
+
+# NEws for the MAyoR 
+[PIA11243: NASA's AVIRIS Instrument Sheds New Light on Southern California Wildfires](https://x.com/RicoThaka/status/1901712206443737569) [EMit DATACUBE SAMPLE](https://x.com/RicoThaka/status/1901710981929255183) [LA_PERCEPTiON](https://x.com/RicoThaka/status/1901706756587470848) [To MALE JOURNALiST TALKiNG TO Ms_BASS](https://x.com/RicoThaka/status/1901704230639214839) [Mayor_Gossip](https://x.com/RicoThaka/status/1901703421167800712) [Reddit Post NEEDS PARSing @cityoflosangeles @nasa-jpl](https://x.com/RicoThaka/status/1901702469522174261) [![Twitter Follow](https://img.shields.io/badge/Social-RepKamlagerDove__-blue?style=social&logo=X)](https://twitter.com/RepKamlagerDove) [MayorTweetReddit](https://x.com/RicoThaka/status/1901701917367251296)
+
+![AViRis](https://photojournal.jpl.nasa.gov/jpegMod/PIA11243_modest.jpg)
+
+[Bass fires the L.A. fire chief, but her own smoldering political crisis is far from over @datadesk](https://www.latimes.com/california/story/2025-02-21/bass-fires-the-l-a-fure-chief-but-her-own-smoldering-political-crisis-is-far-from-over) [LA Mayor Karen Bass facing recall effort over handling of Palisades Fire](https://abc7.com/post/los-angeles-mayor-karen-bass-facing-recall-effort-handling-palisades-fire/16011643/)
+
+# Live Cams : CAlifornia
+[Moving Mountains Livestream](https://www.metabolicstudio.org/live-streaming)
+[🔴 Venice V Hotel Live · Beach Live Camera · Los Angeles Live Stream](https://www.youtube.com/watch?v=3LXQWU67Ufk)
+[Webcams - Los Angeles @foxbrodcasting](https://www.fox10phoenix.com/webcams-los-angeles) @usgs @nasa @nasa-jpl 
+[Webcams in LOs ANgeles - https://www.outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [LOS_ANGELES - EarthCam.COM](https://www.earthcam.com/search/ft_search.php?s1=1&term=los+angeles&x=78&y=4) [MArs Perception](https://x.com/RicoThaka/status/1886911203743842619)
 
 ![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
 California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
