@@ -1,6 +1,6 @@
 
 ![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
-[DroughtMonitor](https://x.com/RicoThaka/status/1884060535731486825) [Current_MAP](https://droughtmonitor.unl.edu/CurrentMap.aspx)
+[DroughtMonitor](https://x.com/RicoThaka/status/1884060535731486825) [Current_MAP](https://droughtmonitor.unl.edu/CurrentMap.aspx) [BLOCKERS](https://x.com/RicoThaka/status/1894472734186639522) [feral cows](https://x.com/RicoThaka/status/1886555588576076209)
 
 ![DNS FORWARDiNG Between FiRMS and @google earth broken from LAPL @nasa-jpl @nasa](https://pbs.twimg.com/media/GmlWQ3naEAMkbz5?format=jpg&name=large)
 [DNS FORWARDiNG Between FiRMS and @google earth broken from LAPL @nasa-jpl @nasa](https://x.com/RicoThaka/status/1903147179067515303)
