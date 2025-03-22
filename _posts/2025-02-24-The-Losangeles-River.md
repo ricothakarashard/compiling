@@ -1,5 +1,124 @@
 # The Los Angeles River
 
+<style>
+
+html {
+  background-image: url('https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154064/stlawrencegulf_amo_20250313_lrg.jpg');
+background-size: 100% auto;
+    background-repeat: repeat;
+  background-attachment: fixed;
+
+}
+
+
+
+  .river {
+  
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: auto;
+
+  box-sizing: border-box;
+  width: 400px;
+  height: 200px;
+  background: rgba(114, 186, 94, 0.05);
+  border: 2px dashed rgba(114, 186, 94, 0.35);
+
+  }
+
+  .river a:link {
+    
+    color: white;
+    
+  }
+
+
+  .river > * {  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  background: rgba(255, 213, 70, 0.4);
+  border: 2px dashed rgba(236, 198, 48, 0.5);
+    
+
+    
+          &:hover {
+             transform: scale(1.5);
+            
+            
+       
+        
+      }
+    
+    }
+  .box a:link {
+    
+    color: white;
+    
+  }
+
+
+
+figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+ 
+
+/* figure img { width: 50%} */
+ 
+</style>
+
+# LA _River
+[FullSet](https://www.loc.gov/resource/hhh.ca2896.photos/?sp=1&st=gallery)
+<div class="river" markdown="1">
+
+<figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193817pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193817pv.jpg"
+                    alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> HYPERION VIADUCT</a></figcaption>
+</figure>
+
+  
+  <figure>
+  <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193821pv.jpg"><img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193821pv.jpg"
+                                                                                                                 alt="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=7" /> </a>
+  <figcaption> <a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=7">FLETCHER AVENUE</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193815pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193837pv.jpg"
+                    alt="Elephant at sunset" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
+</figure>
+
+  
+  <figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193837pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193815pv.jpg"
+                    alt="CESAR CHAVEZ BRIDGE. LOOKING WEST. - Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
+</figure>
+
+    <figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193842pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193842pv.jpg"
+                    alt="CESAR CHAVEZ BRIDGE. LOOKING WEST. - Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
+</figure>
+
+  
+</div>
+
+
+
+
 ![Reading LA](https://pbs.twimg.com/media/GjS4_p4aQAAhgG-?format=jpg&name=large)
 [The Enourmous Villiage](https://x.com/RicoThaka/status/1888338137296105533)
 # Alge Report
