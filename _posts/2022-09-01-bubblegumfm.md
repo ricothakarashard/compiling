@@ -1,3 +1,8 @@
+---
+title: BubblegumFM
+published: true
+---
+
 ```
 BubblegumFM is was a station idea during CoronaVirusQuarantine with ppl that was interacting with me from atlanta
 ```
