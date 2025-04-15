@@ -5,7 +5,7 @@
 <style>
 
 html {
-  background-image: url('https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154064/stlawrencegulf_amo_20250313_lrg.jpg');
+  background-image: url('https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153896/ca_lacounty_ndvi_20240831.jpg');
 background-size: 100% auto;
     background-repeat: repeat;
   background-attachment: fixed;
