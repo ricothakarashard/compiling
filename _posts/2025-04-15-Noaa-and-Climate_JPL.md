@@ -57,6 +57,88 @@ The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visibl
 </blockquote>
 <script src="https://p.trellocdn.com/embed.min.js"></script>
 
+
+[NOAA - DEEP_SPACE_NETOWORK](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
+[DSCOVR: Deep Space Climate Observatory](https://www.nesdis.noaa.gov/current-satellite-missions/currently-flying/dscovr-deep-space-climate-observatory)
+The Deep Space Climate Observatory, or DSCOVR, was launched in February of 2015, and maintains the nation's real-time solar wind monitoring capabilities, which are critical to the accuracy and lead time of NOAA's space weather alerts and forecasts.
+<style>
+  
+.adminsquares > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 400px;
+  flex-grow:1;
+  overflow: hidden;
+   transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+ 
+  
+}
+
+.adminsquares {
+  display: flex;
+  flex-flow: row wrap; 
+  
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+
+.adminsquares img {
+  width: 100%;
+}
+
+
+ 
+
+
+article {
+  max-width: 100%;
+  }
+footer {
+  background: #ffffff50;
+}
+h1 {
+  text-align: center;
+}
+
+  
+</style>
+<H1> github.com/RashardThaka</H1>
+
+<SECTION class="adminsquares">
+  
+<ARTICLE>
+    <HEADER>
+      DEEP_SPACE_NETWORK:DSCOVR: EPIC
+    </HEADER>
+    <object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+    <FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
+</ARTICLE>
+
+<ARTICLE>
+    <HEADER>
+      DEEP_SPACE_NETWORK:DSN_NOW!
+    </HEADER>
+    <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+    <FOOTER>DeepSpaceNetwork</FOOTER>
+</ARTICLE>
+
+<ARTICLE>
+    <HEADER>
+      DEEP_SPACE_NETWORK:DSCOVR: EPIC
+    </HEADER>
+    <object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+    <FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
+</ARTICLE>
+</SECTiON>
+
 [Rashard on TRELLO](https://trello.com/b/FWO7m3St/rashardmro)
 [Limits for free account - John Agius May 2021](https://community.atlassian.com/forums/Trello-questions/Limits-for-free-account/qaq-p/1688220)
 
