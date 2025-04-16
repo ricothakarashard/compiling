@@ -48,7 +48,7 @@ December 8, 2022
 # ViiRS...
 Is an Instrument like [ECOSTRESS](https://ecostress.jpl.nasa.gov/)
 
-The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visible and infrared images and global observations of the land, atmosphere, cryosphere and oceans.
+The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visible and infrared images and global observations of the land, atmosphere, cryosphere and oceans. 
 ![ViiRS_iNSTRUMENT](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2021-12/VIIRS.jpg.webp?itok=AQqmSHJF)
 ![AquaMapper](https://cdn.coastalscience.noaa.gov/csmedia/2018/02/GulfAquamapper-Screenshot.png)
 
@@ -57,11 +57,34 @@ The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visibl
 </blockquote>
 <script src="https://p.trellocdn.com/embed.min.js"></script>
 
+<video controls width="250">
+  <source src="/shared-assets/videos/flower.webm" type="video/webm" />
+
+  <source src="/shared-assets/videos/flower.mp4" type="video/mp4" />
+
+  Download the
+  <a href="/shared-assets/videos/flower.webm">WEBM</a>
+  or
+  <a href="/shared-assets/videos/flower.mp4">MP4</a>
+  video.
+</video>
 
 [NOAA - DEEP_SPACE_NETOWORK](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
 [DSCOVR: Deep Space Climate Observatory](https://www.nesdis.noaa.gov/current-satellite-missions/currently-flying/dscovr-deep-space-climate-observatory)
-The Deep Space Climate Observatory, or DSCOVR, was launched in February of 2015, and maintains the nation's real-time solar wind monitoring capabilities, which are critical to the accuracy and lead time of NOAA's space weather alerts and forecasts.
+The Deep Space Climate Observatory, or DSCOVR, was launched in February of 2015, and maintains the nation's real-time solar wind monitoring capabilities, which are critical to the accuracy and lead time of NOAA's space weather alerts and forecasts... It sits Behind the moon from my understadning and that position is how it is able to capture [LunaRoccultation](https://ntrs.nasa.gov/citations/19780020077) so well
+## What is an occultation in astronomy? 
+A lunar occultation in astronomy is when the Moon appears to move in front of another object in the sky like a star, a planet or an asteroid. - @AntonVamplew [Anton Vamplew - BBC](https://www.skyatnightmagazine.com/advice/occultation-astronomy-what)
+### VIDEO: LUNAR TRANSIT 2015: 2015 
+<video controls width="500">
 
+
+  <source src="https://epic.gsfc.nasa.gov/epic-galleries/2015/lunar_transit/Updated_lunartransit.mp4" type="video/mp4" />
+
+  Download the
+ 
+  <a href="https://epic.gsfc.nasa.gov/epic-galleries/2015/lunar_transit/Updated_lunartransit.mp4">MP4</a>
+  video.
+</video>
 [GALLERY: WEST COAST WILDFIRES](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 ![California_Fire](https://epic.gsfc.nasa.gov/epic-galleries/2020/wildfires/full/epic_1b_20200911201539_map.png)
 [VIDEO: LUNAR OCCULTATION 2015: 2015](https://epic.gsfc.nasa.gov/galleries/2015/lunar_occultation/video)
