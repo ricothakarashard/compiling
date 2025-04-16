@@ -43,6 +43,13 @@ December 8, 2022
 ![First Image Released from NOAA-21 VIIRS instrument](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2022-12/black_NOAA21FirstGlobal_CenterRobinsonProjection_Upton_v2.png.webp?itok=tmg6ivxA)
 [New Tool Available for Aquaculture Siting in Gulf of Mexico](https://coastalscience.noaa.gov/news/new-aquamapper-tool-available-permitting-siting-aquaculture-gulf-mexico/)
 
+## NOAA Satellites Help Show Historic Flooding Along Ohio River
+
+# ViiRS...
+Is an Instrument like [ECOSTRESS](https://ecostress.jpl.nasa.gov/)
+
+The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visible and infrared images and global observations of the land, atmosphere, cryosphere and oceans.
+![ViiRS_iNSTRUMENT](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2021-12/VIIRS.jpg.webp?itok=AQqmSHJF)
 ![AquaMapper](https://cdn.coastalscience.noaa.gov/csmedia/2018/02/GulfAquamapper-Screenshot.png)
 
 <blockquote class="trello-board-compact">
