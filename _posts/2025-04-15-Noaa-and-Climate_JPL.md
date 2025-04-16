@@ -66,80 +66,23 @@ The Deep Space Climate Observatory, or DSCOVR, was launched in February of 2015,
 ![California_Fire](https://epic.gsfc.nasa.gov/epic-galleries/2020/wildfires/full/epic_1b_20200911201539_map.png)
 [VIDEO: LUNAR OCCULTATION 2015: 2015](https://epic.gsfc.nasa.gov/galleries/2015/lunar_occultation/video)
 
-<style>
-  
-.asdf > * {
-  border: 1px solid #c9ff23;
-  border-radius: 5px;
-  padding: 0px;
-  flex-basis: 400px;
-  flex-grow:1;
-  overflow: hidden;
-   transition: all 300ms ease-in-out;
-  
-  &:hover {
-    flex-grow: 9.3;
-    
-  }
- 
-  
-}
-
-.asdf {
-  display: flex;
-  flex-flow: row wrap; 
-  
-  padding: 15px;
-  gap: 5px;
-  height: auto;
-}
-
-
-.asdf img {
-  width: 100%;
-}
-
-
- 
-
-
-.asdf article {
-  max-width: 100%;
-  }
-.asdf footer {
-  background: #ffffff50;
-}
-.asdf h1 {
-  text-align: center;
-}
-
-  
-</style>
 
 <SECTION class="asdf">
-
-  <ARTICLE>
-    <HEADER>
-      DEEP_SPACE_NETWORK:DSCOVR: EPIC
-    </HEADER>
-    <object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
-    <FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
-  </ARTICLE>
-  <ARTICLE>
-    <HEADER>
-      DEEP_SPACE_NETWORK:DSN_NOW!
-    </HEADER>
-    <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
-    <FOOTER>DeepSpaceNetwork</FOOTER>
-  </ARTICLE>
-
-  <ARTICLE>
-    <HEADER>
-      DEEP_SPACE_NETWORK:DSCOVR: EPIC
-    </HEADER>
-    <object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
-    <FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
-  </ARTICLE>
+<ARTICLE>
+<HEADER>DEEP_SPACE_NETWORK:DSCOVR: EPIC</HEADER>
+<object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+<FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
+</ARTICLE>
+<ARTICLE>
+<HEADER>DEEP_SPACE_NETWORK:DSN_NOW!</HEADER>
+<object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+<FOOTER>DeepSpaceNetwork</FOOTER>
+</ARTICLE>
+<ARTICLE>
+<HEADER>DEEP_SPACE_NETWORK:DSCOVR: EPIC</HEADER>
+<object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+<FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
+</ARTICLE>
 </SECTiON>
 
 [Rashard on TRELLO](https://trello.com/b/FWO7m3St/rashardmro)
