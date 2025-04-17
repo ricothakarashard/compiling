@@ -169,8 +169,12 @@ A lunar occultation in astronomy is when the Moon appears to move in front of an
 
 [Rashard on TRELLO](https://trello.com/b/FWO7m3St/rashardmro)
 [Limits for free account - John Agius May 2021](https://community.atlassian.com/forums/Trello-questions/Limits-for-free-account/qaq-p/1688220)
+[SPACE_WEATHER.PDF](https://www.nesdis.noaa.gov/s3/2024-02/SWO_Flyout_Chart_January_2024.pdf)
+
+# Currently Flying
+![current](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2025-04/NOAA-Satellite-Observing-System.png.webp?itok=kDUHVbji)
 
 # The Earth Observer
 The Earth Observer newsletter, published by NASA's Science Support Office (Code 610) at the Goddard Space Flight Center, has been an authoritative source for consolidating NASA Earth Science news for over three decades. Past issues are available for download via the [ARCHiVE](https://science.nasa.gov/earth-science/the-earth-observer/archives/)
-
-
+[Air Quality](https://haqast.org/haqast-showcase-2025/#virtualflashtalks)
+![JPSS](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2022-07/JPSS-factsheet-preview_2.jpg.webp?itok=b_vYK16R)
