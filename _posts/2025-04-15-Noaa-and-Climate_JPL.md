@@ -11,13 +11,66 @@ background-size: 100% auto;
   background-attachment: fixed;
 
 }
+.admin > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 400px;
+  flex-grow:1;
+  overflow: hidden;
+   transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 6.3;
+    
+  }
+ 
+  
+}
+
+.admin {
+  display: flex;
+  flex-flow: row wrap; 
+  gap: 2px;
+  height: auto;
+}
+
+.admin object { height : 400px;
+width :100%;}
+.adminsquares img {
+  width: 100%;
+}
+
+
+ 
+
+
+
+
+body {
+    display: grid;
+    place-content: safe center;
+  }
+
+  header {
+    background: black;
+  }
+}
+
+footer {
+  background: #ffffff50;
+}
+h1 {
+  text-align: center;
+}
 
 </style>
 
 
-[NOAA Latest Satellite Imagery](https://www.nhc.noaa.gov/satellite.php)
+[NOAA Latest Satellite Imagery](https://www.nhc.noaa.gov/satellite.php) This tool comes from our partners at NASA, and allows us to interactively browse global, full-resolution satellite imagery via their Earth Observing System Data and Information System ( EOSDIS ). - @noaa [This Earth Day, Explore Our Amazing World from Above](https://www.nesdis.noaa.gov/news/earth-day-explore-our-amazing-world-above)
+
 ![WORLDViEW](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/NASA-Worldview.JPG.webp?itok=IJQ0mnXC)
-This tool comes from our partners at NASA, and allows us to interactively browse global, full-resolution satellite imagery via their Earth Observing System Data and Information System ( EOSDIS ). - @noaa [This Earth Day, Explore Our Amazing World from Above](https://www.nesdis.noaa.gov/news/earth-day-explore-our-amazing-world-above)
+
 <picture>
   <source srcset="hhttps://ia601509.us.archive.org/20/items/noaa_fundingwide/noaa_funding.jpg" media="(orientation: portrait)" />
   <source srcset="https://archive.org/download/noaa_fundingwide/noaa_fundingwide.jpg" media="(orientation: landscape)" />
@@ -71,6 +124,27 @@ The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visibl
 </video>
 
 [NOAA - DEEP_SPACE_NETOWORK](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
+<section class="admin">
+
+<article>
+<header>DEEP_SPACE_NETWORK:DSCOVR: EPIC</header>
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+<footer>NOAA/JPL/NASA/CALTECH</footer>
+</article>
+
+<article>
+<header>DEEP_SPACE_NETWORK:DSN_NOW!</header>
+<object data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+<footer>DeepSpaceNetwork</footer>
+</article>
+
+<article>
+<header>DEEP_SPACE_NETWORK:DSCOVR: EPIC</header>
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+<footer>NOAA/JPL/NASA/CALTECH</footer>
+</article>
+
+</section>
 [DSCOVR: Deep Space Climate Observatory](https://www.nesdis.noaa.gov/current-satellite-missions/currently-flying/dscovr-deep-space-climate-observatory)
 The Deep Space Climate Observatory, or DSCOVR, was launched in February of 2015, and maintains the nation's real-time solar wind monitoring capabilities, which are critical to the accuracy and lead time of NOAA's space weather alerts and forecasts... It sits Behind the moon from my understadning and that position is how it is able to capture [LunaRoccultation](https://ntrs.nasa.gov/citations/19780020077) so well
 ## What is an occultation in astronomy? 
@@ -91,23 +165,7 @@ A lunar occultation in astronomy is when the Moon appears to move in front of an
 [VIDEO: LUNAR OCCULTATION 2015: 2015](https://epic.gsfc.nasa.gov/galleries/2015/lunar_occultation/video)
 
 
-<SECTION class="asdf">
-<ARTICLE>
-<HEADER>DEEP_SPACE_NETWORK:DSCOVR: EPIC</HEADER>
-<object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
-<FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
-</ARTICLE>
-<ARTICLE>
-<HEADER>DEEP_SPACE_NETWORK:DSN_NOW!</HEADER>
-<object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
-<FOOTER>DeepSpaceNetwork</FOOTER>
-</ARTICLE>
-<ARTICLE>
-<HEADER>DEEP_SPACE_NETWORK:DSCOVR: EPIC</HEADER>
-<object class="scroller" data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
-<FOOTER>NOAA/JPL/NASA/CALTECH</FOOTER>
-</ARTICLE>
-</SECTiON>
+
 
 [Rashard on TRELLO](https://trello.com/b/FWO7m3St/rashardmro)
 [Limits for free account - John Agius May 2021](https://community.atlassian.com/forums/Trello-questions/Limits-for-free-account/qaq-p/1688220)
